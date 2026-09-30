@@ -1,0 +1,49 @@
+<!doctype html>
+{% from "_icons.html" import icon %}
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{% block title %}RDH Friend{% endblock %}</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ url_for('static', filename='icons/apple-touch-icon.png') }}" />
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ url_for('static', filename='icons/favicon-32x32.png') }}" />
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ url_for('static', filename='icons/favicon-16x16.png') }}" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+  </head>
+  <body>
+    {% block body %}{% endblock %}
+
+    {# Shown once per browser by app.js; hidden if JS is off (the footer still carries the disclaimer). #}
+    <div class="disclaimer-overlay" id="disclaimer" role="dialog" aria-modal="true" aria-labelledby="disclaimer-title" hidden>
+      <div class="disclaimer-popup">
+        <div class="disclaimer-popup__icon">{{ icon("triangle-alert", 48, "#EA526F") }}</div>
+        <h2 class="disclaimer-popup__title" id="disclaimer-title">Important Disclaimer</h2>
+        <h3 class="disclaimer-popup__subtitle">Hello HCC Dental Hygiene Students! Please read below</h3>
+        <div class="disclaimer-popup__body">
+          <p>
+            This tool was created by a <strong>single, fallible person</strong> and is
+            intended as a reference aid only, not a substitute for professional
+            clinical judgment.
+          </p>
+          <p>
+            Drug information, dental considerations, and side effects listed here
+            may be incomplete, outdated, or contain errors.
+            <strong>Always verify information from authoritative sources</strong> such
+            as prescribing information, clinical pharmacology references, or a
+            licensed pharmacist before making clinical decisions.
+          </p>
+          <p>
+            By continuing, you acknowledge that you understand these limitations
+            and will exercise independent professional judgment.
+          </p>
+        </div>
+        <button type="button" class="disclaimer-popup__btn" id="disclaimer-dismiss">I Understand - Continue</button>
+      </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/app.js') }}" defer></script>
+  </body>
+</html>

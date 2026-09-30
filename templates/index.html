@@ -1,0 +1,101 @@
+{% extends "base.html" %}
+{% from "_drug_card.html" import drug_card %}
+{% from "_icons.html" import icon %}
+
+{% macro input_row(value, i, total) -%}
+<div class="drug-input-row">
+  <div class="drug-input-wrapper">
+    <div class="drug-input-num">{{ i + 1 }}</div>
+    <input type="text" name="drug" class="drug-input" value="{{ value }}" maxlength="100"
+           placeholder="e.g. Warfarin, Amlodipine, Metformin…" autocomplete="off" />
+    <ul class="suggestions-list" hidden></ul>
+  </div>
+  <button type="button" class="drug-input-remove" aria-label="Remove drug" {% if total <= 1 %}hidden{% endif %}>{{ icon("x", 14) }}</button>
+</div>
+{%- endmacro %}
+
+{% block body %}
+<div class="app-shell">
+  <header class="app-header">
+    <div class="header-inner">
+      <div class="logo-mark" aria-label="Dental Drug Considerations">
+        <a href="https://github.com/koeia" target="_blank" rel="noopener noreferrer">{{ icon("heart-handshake", 48) }}</a>
+      </div>
+      <div class="header-text"><h1 class="app-title">Dental Considerations</h1></div>
+    </div>
+  </header>
+
+  <main class="app-main">
+    <form class="input-panel" id="lookup-form" method="get" action="{{ url_for('index') }}">
+      <div class="input-panel__header">
+        <h2 class="input-panel__title">Patient Medication List</h2>
+        <p class="input-panel__desc">(max {{ max_drugs }})</p>
+      </div>
+
+      <div class="drug-inputs" id="drug-inputs">
+        {% for value in inputs %}{{ input_row(value, loop.index0, inputs | length) }}{% endfor %}
+      </div>
+      <template id="input-row-template">{{ input_row("", 0, 2) }}</template>
+
+      <div class="input-actions">
+        <button type="button" class="btn-add-drug" id="add-drug" {% if inputs | length >= max_drugs %}disabled{% endif %}>
+          {{ icon("plus", 14) }} Add Drug
+        </button>
+        <a class="btn-clear" href="{{ url_for('index') }}">Clear All</a>
+        <button type="submit" class="btn-search" id="search-btn">
+          {{ icon("search", 14) }} Check Dental Considerations
+        </button>
+      </div>
+    </form>
+
+    {% if not results %}
+    <section class="db-preview">
+      <p class="db-preview__label">Drugs in database. Click to add:</p>
+      <div class="class-filter">
+        <select id="drug-use-filter" aria-label="Filter by common use">
+          <option value="">All Uses</option>
+          {% for use in common_uses %}<option value="{{ use }}">{{ use }}</option>{% endfor %}
+        </select>
+        <button type="button" class="btn-clear-filter" id="clear-filter">Clear filter</button>
+      </div>
+      <div class="chip-list" id="chip-list">
+        {% for d in drugs %}
+        <button type="button" class="chip" data-name="{{ d.name }}" data-uses='{{ d.common_use | tojson }}' title="Click to add">
+          {{ d.name }}{% if d.show_generic %}<span class="chip-generic">({{ d.generic_name }})</span>{% endif %}
+        </button>
+        {% endfor %}
+      </div>
+    </section>
+    {% else %}
+    <section class="results-section" id="results">
+      <div class="results-header">
+        <h2 class="results-title">
+          Results
+          <span class="results-count">
+            {{ found_count }} found in database
+            {% if not_found_count %}<span class="results-count--nf"> · {{ not_found_count }} linked to Drugs.com</span>{% endif %}
+          </span>
+        </h2>
+        <div class="results-header-actions">
+          <button type="button" class="btn-copy" id="copy-results" data-copy="{{ copy_text }}">
+            <span class="btn-copy__idle">{{ icon("clipboard", 14) }} Copy Results</span>
+            <span class="btn-copy__done" hidden>{{ icon("clipboard-check", 14) }} Copied</span>
+          </button>
+        </div>
+      </div>
+      <div class="drug-cards-list">
+        {% for query, drug in results %}{{ drug_card(query, drug) }}{% endfor %}
+      </div>
+    </section>
+    {% endif %}
+  </main>
+
+  <footer class="app-footer">
+    <p>Dental Drug Considerations Reference · Made with ♥ for Sarah · Not a substitute for clinical judgment</p>
+    <a href="{{ url_for('changelog') }}" target="_blank">ver. {{ version }}</a>
+  </footer>
+</div>
+
+<script type="application/json" id="drug-names">{{ drugs | map(attribute="name") | list | tojson }}</script>
+<script type="application/json" id="drug-generics">{{ drugs | map(attribute="generic_name") | list | tojson }}</script>
+{% endblock %}

@@ -1,0 +1,4530 @@
+[
+  {
+    "name": "Lexapro",
+    "genericName": "Escitalopram",
+    "medlineID": "a603005",
+    "drugClass": "SSRI",
+    "commonUse": ["Depression", "Anxiety"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Tooth problems",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Pain or tenderness around the eyes and cheekbones",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Bruxism",
+        "prevalence": "RARE"
+      }
+    ],
+    "precautions": [
+      "Avoid NSAIDs/aspirin for dental pain where possible. SSRIs impair platelet function and increase bleeding; acetaminophen is preferred",
+      "Avoid tramadol for dental pain. serotonin syndrome risk",
+      "Additive QT prolongation with azithromycin, clarithromycin, or erythromycin. choose penicillin-class antibiotic where possible",
+      "Xerostomia increases caries risk. fluoride, saliva substitutes, shortened recall",
+      "Screen for SSRI-associated bruxism. consider occlusal guard"
+    ]
+  },
+  {
+    "name": "Oxycodone HCl IR",
+    "genericName": "Oxycodone",
+    "medlineID": "a682132",
+    "drugClass": "Opioid analgesic",
+    "commonUse": ["Pain"],
+    "sideEffects": [
+      {
+        "effect": "Change in taste",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Cough",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Sore throat",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Tooth decay",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Red, swollen skin",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Swelling or inflammation of the mouth",
+        "prevalence": "RARE"
+      }
+    ],
+    "precautions": [
+      "Do not combine with benzodiazepine sedation (triazolam, diazepam, midazolam). risk of fatal respiratory depression",
+      "Additive CNS/respiratory depression with nitrous oxide and other sedatives. reduce doses and monitor",
+      "Opioid-tolerant patients get poor relief from standard doses. NSAID plus acetaminophen is first-line for dental pain",
+      "Chronic use causes xerostomia and rampant caries. fluoride and aggressive prevention",
+      "Screen for substance use disorder. prescribe lowest effective dose for shortest duration and check the PDMP"
+    ]
+  },
+  {
+    "name": "Prinivil/Zestril",
+    "genericName": "Lisinopril",
+    "medlineID": "a692051",
+    "drugClass": "ACE inhibitor",
+    "commonUse": ["Hypertension"],
+    "sideEffects": [
+      {
+        "effect": "Muscle pain",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Angioedema",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "RARE"
+      }
+    ],
+    "precautions": [
+      "Avoid NSAIDs for dental pain. blunts antihypertensive effect and risks renal injury; use acetaminophen",
+      "Orthostatic hypotension. raise the chair slowly and let the patient sit before standing",
+      "Angioedema can present as sudden lip, tongue, or airway swelling. airway emergency, not an allergic reaction to anesthetic",
+      "Epinephrine in local anesthetic is not contraindicated. standard cardiac dose limits apply"
+    ]
+  },
+  {
+    "name": "Zocor",
+    "genericName": "Simvastatin",
+    "medlineID": "a692030",
+    "drugClass": "Statin",
+    "commonUse": ["Cholesterol"],
+    "sideEffects": [
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Dizziness",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Pain or tenderness around the eyes and cheekbones",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Contraindicated with clarithromycin and erythromycin. rhabdomyolysis risk; use azithromycin or a penicillin instead",
+      "Contraindicated with itraconazole, ketoconazole, posaconazole, and voriconazole. fluconazole is a moderate inhibitor, so limit dose and duration if prescribed for oral candidiasis",
+      "Advise the patient to report unexplained muscle pain or weakness"
+    ]
+  },
+  {
+    "name": "Synthroid",
+    "genericName": "Levothyroxine",
+    "medlineID": "a682461",
+    "drugClass": "Thyroid hormone",
+    "commonUse": ["Thyroid"],
+    "sideEffects": [
+      {
+        "effect": "Vomiting",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Redness of face/neck/arms",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Trouble sitting still",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Undertreated or overtreated thyroid disease affects epinephrine tolerance. limit vasoconstrictor and avoid epinephrine-impregnated retraction cord in symptomatic hyperthyroid patients",
+      "Ketamine may produce marked hypertension and tachycardia in patients on thyroid hormone. relevant to dental sedation protocols",
+      "Monitor heart rate and rhythm during treatment in symptomatic patients",
+      "Well-controlled euthyroid patients need no treatment modification"
+    ]
+  },
+  {
+    "name": "Amoxil",
+    "genericName": "Amoxicillin",
+    "medlineID": "a685001",
+    "drugClass": "Antibiotic",
+    "commonUse": ["Bacterial infection"],
+    "sideEffects": [
+      {
+        "effect": "Change in taste",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Verify no penicillin or cephalosporin allergy before prescribing",
+      "Antibiotics are an adjunct, not a substitute for definitive treatment. drainage, pulpectomy, or extraction is still required",
+      "May potentiate warfarin. monitor INR if the patient is anticoagulated",
+      "Advise backup contraception. reduced oral contraceptive efficacy is on the label",
+      "Complete the full course; watch for antibiotic-associated or C. difficile diarrhea"
+    ],
+    "notes": "One of the most commonly prescribed antibiotics in dentistry. Often used for prophylaxis before dental procedures in patients with certain heart conditions."
+  },
+  {
+    "name": "Zithromax",
+    "genericName": "Azithromycin",
+    "medlineID": "a697037",
+    "drugClass": "Antibiotic",
+    "commonUse": ["Bacterial infection"],
+    "sideEffects": [
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Change in taste",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Xerostomia",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Change in the color of tongue",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "White patches in the mouth, tongue or throat",
+        "prevalence": "RARE"
+      }
+    ],
+    "precautions": [
+      "QT prolongation. avoid in patients with known QT prolongation or on other QT-prolonging drugs",
+      "Alternative to amoxicillin for infective endocarditis prophylaxis in penicillin-allergic patients (500 mg)",
+      "May potentiate warfarin. monitor INR before invasive procedures",
+      "Separate from aluminum/magnesium antacids by at least 2 hours",
+      "Elderly patients are at higher risk of arrhythmia"
+    ]
+  },
+  {
+    "name": "Microzide",
+    "genericName": "Hydrochlorothiazide",
+    "medlineID": "a682571",
+    "drugClass": "Diuretic",
+    "commonUse": ["Hypertension", "Fluid"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Frequent urination",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Avoid NSAIDs. blunts the antihypertensive effect and risks renal injury; use acetaminophen",
+      "Orthostatic hypotension. slow chair repositioning",
+      "Thiazides are a recognized cause of oral lichenoid drug reactions. document and refer if lesions appear"
+    ]
+  },
+  {
+    "name": "Norvasc",
+    "genericName": "Amlodipine",
+    "medlineID": "a692044",
+    "drugClass": "Antihypertensive",
+    "commonUse": ["Hypertension"],
+    "sideEffects": [
+      {
+        "effect": "Redness of the face/neck/arms",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Bleeding gums",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Change in taste",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Xerostomia",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Irritation in the mouth",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Gingival hyperplasia",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Fruity breath",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Difficulty swallowing",
+        "prevalence": "RARE"
+      }
+    ],
+    "precautions": [
+      "Gingival overgrowth is a calcium channel blocker class effect. periodontal charting, meticulous plaque control, and 3-month recall; refer to prescriber if severe",
+      "Orthostatic hypotension. raise the chair slowly",
+      "Fluconazole and other azole antifungals increase amlodipine levels. risk of hypotension and edema",
+      "Erythromycin and clarithromycin also increase amlodipine exposure. prefer an alternative antibiotic"
+    ]
+  },
+  {
+    "name": "Xanax",
+    "genericName": "Alprazolam",
+    "medlineID": "a684001",
+    "drugClass": "Benzodiazepine",
+    "commonUse": ["Anxiety"],
+    "sideEffects": [
+      {
+        "effect": "Hypersalivation",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Change in taste",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Redness of the face/neck/arms",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Xerostomia",
+        "prevalence": "RARE"
+      }
+    ],
+    "precautions": [
+      "Do not co-prescribe opioids for dental pain. risk of fatal respiratory depression",
+      "Additive sedation with nitrous oxide and oral sedation. reduce doses and monitor",
+      "Azole antifungals (fluconazole, itraconazole, ketoconazole) and erythromycin/clarithromycin markedly increase alprazolam levels",
+      "Chronic users are benzodiazepine-tolerant. oral sedation may be ineffective at usual doses",
+      "Xerostomia. fluoride and saliva substitutes with long-term use"
+    ]
+  },
+  {
+    "name": "Glucophage",
+    "genericName": "Metformin",
+    "medlineID": "a696005",
+    "drugClass": "Antidiabetic",
+    "commonUse": ["Diabetes"],
+    "sideEffects": [
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Vommiting",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Change in taste",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Confirm the patient has eaten and taken medication as usual before treatment",
+      "Metformin alone rarely causes hypoglycemia, but risk rises when combined with insulin or a sulfonylurea. keep a glucose source available",
+      "Schedule morning appointments and avoid prolonged fasting",
+      "Poor glycemic control impairs healing and worsens periodontal status. review recent HbA1c before surgery"
+    ]
+  },
+  {
+    "name": "Lipitor",
+    "genericName": "Atorvastatin",
+    "medlineID": "a600045",
+    "drugClass": "Statin",
+    "commonUse": ["Cholesterol"],
+    "sideEffects": [
+      {
+        "effect": "Vomiting",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Pain or tenderness around the eyes and cheekbones",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Avoid clarithromycin and erythromycin. rhabdomyolysis risk; azithromycin or a penicillin is preferred",
+      "Limit dose and duration of azole antifungals prescribed for oral candidiasis",
+      "Advise the patient to report unexplained muscle pain or weakness"
+    ]
+  },
+  {
+    "name": "Prilosec",
+    "genericName": "Omeprazole",
+    "medlineID": "a693050",
+    "drugClass": "PPI",
+    "commonUse": ["Stomach acid"],
+    "sideEffects": [
+      {
+        "effect": "Dizziness",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Assess for GERD-related dental erosion. fluoride, neutral rinses, and avoid brushing immediately after reflux",
+      "Long-term use is associated with hypomagnesemia and B12 deficiency. may present as glossitis or burning mouth"
+    ]
+  },
+  {
+    "name": "Cipro",
+    "genericName": "Ciprofloxacin",
+    "medlineID": "a688016",
+    "drugClass": "Antibiotic",
+    "commonUse": ["Bacterial infection"],
+    "sideEffects": [],
+    "precautions": [
+      "Not first-line for odontogenic infection. reserve for culture-directed or unusual pathogens",
+      "Concurrent NSAIDs may increase CNS stimulation and seizure risk",
+      "Separate from calcium, antacids, iron, and zinc by at least 2 hours",
+      "Boxed warning for tendinitis, tendon rupture, peripheral neuropathy, CNS effects, and worsening myasthenia gravis"
+    ]
+  },
+  {
+    "name": "Zofran",
+    "genericName": "Ondansetron",
+    "medlineID": "a601209",
+    "drugClass": "Antiemetic",
+    "commonUse": ["Nausea", "Dizziness"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Drooling",
+        "prevalence": "RARE"
+      }
+    ],
+    "precautions": [
+      "QT prolongation. avoid concurrent azithromycin, clarithromycin, or erythromycin",
+      "Serotonin syndrome risk with tramadol and other opioids used for dental pain"
+    ]
+  },
+  {
+    "name": "Clozaril",
+    "genericName": "Clozapine",
+    "medlineID": "a691001",
+    "drugClass": "Atypical antipsychotic",
+    "commonUse": ["Schizophrenia"],
+    "sideEffects": [
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Sore tongue",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Severe neutropenia risk. oral ulceration, sore throat, or unexplained infection is a red flag; confirm a recent ANC before invasive procedures",
+      "Hypersalivation is very common. plan for moisture control and be alert to aspiration risk",
+      "Additive respiratory depression with benzodiazepines and opioids. avoid combining",
+      "Orthostatic hypotension. slow chair repositioning",
+      "Lowers seizure threshold. be prepared to manage a seizure in the chair"
+    ]
+  },
+  {
+    "name": "Lasix",
+    "genericName": "Furosemide",
+    "medlineID": "a682858",
+    "drugClass": "Diuretic",
+    "commonUse": ["Fluid"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Frequent urination",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Avoid NSAIDs. reduced diuretic effect and renal risk; use acetaminophen",
+      "Orthostatic hypotension. slow chair repositioning and monitor after long procedures",
+      "Xerostomia. fluoride and saliva substitutes",
+      "Hypokalemia increases arrhythmia risk under sedation. review recent electrolytes before sedation"
+    ]
+  },
+  {
+    "name": "Levitra",
+    "genericName": "Vardenafil",
+    "medlineID": "a603035",
+    "drugClass": "PDE5 inhibitor",
+    "commonUse": ["Erectile dysfunction"],
+    "sideEffects": [
+      {
+        "effect": "Redness of the face/neck/arms",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Cough",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Xerostomia",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Sore throat",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Face swelling",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Mouth sores",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Difficulty swallowing",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Do not administer nitroglycerin within 24 hours of a vardenafil dose. risk of catastrophic hypotension; ask before using the emergency kit",
+      "Erythromycin, clarithromycin, and azole antifungals raise vardenafil levels. avoid or reduce dose",
+      "Jaw, neck, or arm pain in these patients may be cardiac ischemia. evaluate before assuming odontogenic origin",
+      "Monitor for hypotension when repositioning the chair"
+    ]
+  },
+  {
+    "name": "Sumycin",
+    "genericName": "Tetracycline",
+    "medlineID": "a682098",
+    "drugClass": "Antibiotic",
+    "commonUse": ["Bacterial infection", "Perio"],
+    "sideEffects": [
+      {
+        "effect": "White patches or sores inside the mouth/lips",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Tongue staining",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Permanent tooth discoloration (in children <8 and fetal exposure)",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Never use in children under 8 or in pregnancy. permanent intrinsic tooth discoloration and enamel hypoplasia",
+      "Separate from dairy, calcium, antacids, iron, and zinc by 2 hours. chelation markedly reduces absorption",
+      "Take with a full glass of water and remain upright. esophageal ulceration risk",
+      "May reduce oral contraceptive efficacy. advise backup contraception",
+      "Watch for oral candidiasis with extended courses"
+    ]
+  },
+  {
+    "name": "Heparin Sodium",
+    "genericName": "Heparin",
+    "medlineID": "a682826",
+    "drugClass": "Anticoagulant",
+    "commonUse": ["Blood thinner"],
+    "sideEffects": [
+      {
+        "effect": "Unusual bleeding or bruising",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Oral bleeding",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Coordinate with the prescriber and check aPTT (or anti-Xa for LMWH) before invasive procedures",
+      "Anticoagulant effect resolves within a few hours of stopping IV heparin (half-life roughly 1-2 hours). schedule procedures relative to the dosing interval",
+      "Avoid NSAIDs and aspirin for dental pain. use acetaminophen",
+      "Use local hemostatic measures. sutures, oxidized cellulose, and tranexamic acid rinse",
+      "Heparin-induced thrombocytopenia causes bleeding and thrombosis. check platelet count"
+    ]
+  },
+  {
+    "name": "Valcyte",
+    "genericName": "Valganciclovir",
+    "medlineID": "a605021",
+    "drugClass": "Antiviral",
+    "commonUse": ["CMV"],
+    "sideEffects": [
+      {
+        "effect": "Vomiting",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Myelosuppression. obtain a recent CBC and platelet count before invasive procedures",
+      "Neutropenia increases risk of oral ulceration and post-operative infection. defer elective care during cytopenias",
+      "Avoid NSAIDs. nephrotoxicity risk; use acetaminophen",
+      "Manage oral ulceration and candidiasis actively"
+    ]
+  },
+  {
+    "name": "Lamictal",
+    "genericName": "Lamotrigine",
+    "medlineID": "a695007",
+    "drugClass": "Anticonvulsant",
+    "commonUse": ["Seizure", "Bipolar disorder"],
+    "sideEffects": [
+      {
+        "effect": "Gingival hyperplasia",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Difficulty speaking",
+        "prevalence": "RARE"
+      }
+    ],
+    "precautions": [
+      "Any rash or oral/mucosal ulceration may signal Stevens-Johnson syndrome. stop elective care and refer urgently",
+      "Do not advise interrupting therapy. be prepared to manage a seizure in the chair",
+      "Additive sedation with dental sedatives",
+      "Monitor gingival health at recall"
+    ]
+  },
+  {
+    "name": "Diflucan",
+    "genericName": "Fluconazole",
+    "medlineID": "a690002",
+    "drugClass": "Antifungal",
+    "commonUse": ["Fungal infection", "Yeast infection"],
+    "sideEffects": [
+      {
+        "effect": "Changes in taste",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "QT prolongation. avoid concurrent erythromycin or clarithromycin",
+      "Substantially increases midazolam and triazolam levels. avoid or markedly reduce oral sedation doses",
+      "Potentiates warfarin. check INR before invasive procedures",
+      "Increases simvastatin and atorvastatin exposure. limit dose and duration",
+      "Oral suspension is sucrose-based. caries risk with extended courses; rinse after dosing"
+    ]
+  },
+  {
+    "name": "Tenormin",
+    "genericName": "Atenolol",
+    "medlineID": "a684031",
+    "drugClass": "Beta-blocker",
+    "commonUse": ["Hypertension", "Angina"],
+    "sideEffects": [],
+    "precautions": [
+      "Cardioselective beta blocker. epinephrine interaction is less pronounced than with non-selective agents, but limit to about 0.04 mg and aspirate",
+      "Avoid epinephrine-impregnated retraction cord",
+      "Do not advise stopping before appointments. rebound tachycardia and angina",
+      "Orthostatic hypotension. slow chair repositioning",
+      "Blunts early warning signs of hypoglycemia in diabetic patients"
+    ]
+  },
+  {
+    "name": "Singulair",
+    "genericName": "Montelukast",
+    "medlineID": "a600014",
+    "drugClass": "Leukotriene receptor antagonist",
+    "commonUse": ["Allergy", "Asthma"],
+    "sideEffects": [
+      {
+        "effect": "Acidic Stomach",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Dental pain",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Avoid aspirin and NSAIDs in aspirin-exacerbated respiratory disease. may trigger bronchospasm",
+      "Not a rescue medication. confirm the patient has a rescue inhaler at every appointment",
+      "Boxed warning for serious neuropsychiatric events. may affect behavior and cooperation",
+      "Chewable tablets contain phenylalanine. contraindicated in PKU"
+    ]
+  },
+  {
+    "name": "Flonase",
+    "genericName": "Fluticasone propionate",
+    "medlineID": "a695002",
+    "drugClass": "Corticosteroid",
+    "commonUse": ["Allergy"],
+    "sideEffects": [
+      {
+        "effect": "Mouth pain",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Toothache",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Intranasal corticosteroid at usual doses does not require steroid stress dosing for dental surgery",
+      "Inspect for oropharyngeal candidiasis, particularly if the patient also uses an inhaled or systemic steroid",
+      "Report nasal septal ulceration or persistent epistaxis to the prescriber"
+    ]
+  },
+  {
+    "name": "Zyloprim",
+    "genericName": "Allopurinol",
+    "medlineID": "a682673",
+    "drugClass": "Anti-gout",
+    "commonUse": ["Gout"],
+    "sideEffects": [
+      {
+        "effect": "Change in taste",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Swelling or inflammation of mouth",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Swelling of salivary glands",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Tender, swollen glands in neck",
+        "prevalence": "RARE"
+      }
+    ],
+    "precautions": [
+      "Avoid amoxicillin and ampicillin. markedly increased rash risk; select an alternative antibiotic",
+      "Stevens-Johnson syndrome risk. oral mucosal ulceration with rash needs urgent referral",
+      "Rare blood dyscrasias. check CBC if there are signs of bleeding or infection"
+    ]
+  },
+  {
+    "name": "Fosamax",
+    "genericName": "Alendronate",
+    "medlineID": "a601011",
+    "drugClass": "Bisphosphonate",
+    "commonUse": ["Osteoporosis"],
+    "sideEffects": [],
+    "precautions": [
+      "MRONJ risk is low with oral bisphosphonates but rises after roughly 4 years of use and with concurrent corticosteroids",
+      "Complete dental examination and any needed extractions before therapy starts",
+      "Routine restorative and periodontal care is not contraindicated. discuss elective invasive surgery with the prescriber",
+      "Meticulous oral hygiene; instruct the patient to report jaw pain, numbness, or exposed bone",
+      "Patient must remain upright for 30 minutes after dosing. schedule accordingly if appointments follow a morning dose"
+    ]
+  },
+  {
+    "name": "Pepcid",
+    "genericName": "Famotidine",
+    "medlineID": "a687011",
+    "drugClass": "H2 antagonist",
+    "commonUse": ["Stomach acid"],
+    "sideEffects": [
+      {
+        "effect": "Change in taste",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Xerostomia",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Redness of the face/neck/arms",
+        "prevalence": "RARE"
+      }
+    ],
+    "precautions": [
+      "Assess for GERD-related dental erosion. fluoride and neutral rinses",
+      "Xerostomia. fluoride and saliva substitutes"
+    ]
+  },
+  {
+    "name": "Omnicef",
+    "genericName": "Cefdinir",
+    "medlineID": "a698001",
+    "drugClass": "Antibiotic",
+    "commonUse": ["Bacterial infection"],
+    "sideEffects": [
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Xerostomia",
+        "prevalence": "RARE"
+      }
+    ],
+    "precautions": [
+      "Avoid in patients with a history of anaphylaxis to penicillin. cross-reactivity is possible",
+      "Oral suspension is sucrose-based. caries risk with repeated or extended courses",
+      "Not first-line for odontogenic infection. penicillin VK or amoxicillin is preferred",
+      "Watch for antibiotic-associated or C. difficile diarrhea"
+    ]
+  },
+  {
+    "name": "Yaz",
+    "genericName": "Ethinyl estradiol/Drospirenone",
+    "medlineID": "a625047",
+    "drugClass": "Oral contraceptive",
+    "commonUse": ["Birth control"],
+    "sideEffects": [],
+    "precautions": [
+      "Increased risk of dry socket after extraction. schedule elective extractions during days 23-28 of the cycle where possible",
+      "Advise backup contraception if an antibiotic is prescribed, per product labeling",
+      "Increased thromboembolic risk with prolonged immobilization. keep long procedures broken up",
+      "Smoking sharply increases clot risk and impairs healing"
+    ]
+  },
+  {
+    "name": "Apresoline",
+    "genericName": "Hydralazine",
+    "medlineID": "a682246",
+    "drugClass": "Antihypertensive",
+    "commonUse": ["Hypertension"],
+    "sideEffects": [],
+    "precautions": [
+      "Reflex tachycardia. limit epinephrine and aspirate carefully",
+      "Orthostatic hypotension. slow chair repositioning",
+      "Drug-induced lupus may present with oral ulceration. refer if suspected"
+    ]
+  },
+  {
+    "name": "Cogentin",
+    "genericName": "Benztropine",
+    "medlineID": "a682155",
+    "drugClass": "Antiparkinsonian anticholinergic",
+    "commonUse": ["Parkinsons"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Marked xerostomia. high caries and candidiasis risk; fluoride, saliva substitutes, shortened recall",
+      "Avoid adding anticholinergic drugs such as sedating antihistamines or TCAs",
+      "Impaired thermoregulation. avoid long appointments in a warm operatory"
+    ]
+  },
+  {
+    "name": "Aller-Chlor",
+    "genericName": "Chlorpheniramine",
+    "medlineID": "a682543",
+    "drugClass": "Antihistamine",
+    "commonUse": ["Allergy"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Xerostomia. fluoride, saliva substitutes, and hydration advice",
+      "Additive sedation with opioids, benzodiazepines, and nitrous oxide used in dentistry",
+      "High anticholinergic burden in elderly patients. confusion and fall risk after appointments"
+    ]
+  },
+  {
+    "name": "Paxil",
+    "genericName": "Paroxetine",
+    "medlineID": "a698032",
+    "drugClass": "SSRI",
+    "commonUse": ["Depression", "Anxiety"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Pain around eyes and cheekbones",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Change in taste",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Bruxism",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Lump in the throat",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Avoid NSAIDs/aspirin for dental pain where possible. increased bleeding risk; acetaminophen is preferred",
+      "Avoid tramadol. serotonin syndrome risk",
+      "Screen for SSRI-associated bruxism. consider occlusal guard",
+      "Xerostomia. fluoride and saliva substitutes",
+      "Do not advise stopping abruptly. paroxetine has the most pronounced discontinuation syndrome of the SSRIs"
+    ],
+    "notes": "Paxil has one of the highest side effect profiles of any SSRI."
+  },
+  {
+    "name": "Ativan",
+    "genericName": "Lorazepam",
+    "medlineID": "a682053",
+    "drugClass": "Benzodiazepine",
+    "commonUse": ["Anxiety"],
+    "sideEffects": [],
+    "precautions": [
+      "Do not combine with opioids without respiratory monitoring. risk of fatal respiratory depression",
+      "Additive with nitrous oxide. titrate and monitor",
+      "Escort required after sedation; no driving for the rest of the day",
+      "Paradoxical agitation can occur, particularly in children and elderly patients",
+      "Have flumazenil and airway equipment available when used for sedation"
+    ]
+  },
+  {
+    "name": "Pyridium",
+    "genericName": "Phenazopyridine",
+    "medlineID": "a682231",
+    "drugClass": "Urinary analgesic",
+    "commonUse": ["UTI"],
+    "sideEffects": [],
+    "precautions": [
+      "Methemoglobinemia risk is additive with prilocaine and topical benzocaine. avoid these local anesthetics",
+      "Short-term use only. discolors body fluids and can stain appliances"
+    ]
+  },
+  {
+    "name": "Plaquenil",
+    "genericName": "Hydroxychloroquine",
+    "medlineID": "a601240",
+    "drugClass": "Anti-malarial DMARD",
+    "commonUse": ["Rheumatoid arthritis", "Lupus"],
+    "sideEffects": [],
+    "precautions": [
+      "QT prolongation. avoid azithromycin, clarithromycin, and erythromycin",
+      "Oral lichenoid reactions and palatal pigmentation are recognized. document and biopsy if atypical",
+      "Rare blood dyscrasias may present as oral ulceration or delayed healing"
+    ]
+  },
+  {
+    "name": "Lidoderm",
+    "genericName": "Lidocaine",
+    "medlineID": "a603026",
+    "drugClass": "Local anesthetic",
+    "commonUse": ["Pain", "Topical"],
+    "sideEffects": [],
+    "precautions": [
+      "Patch dose counts toward the total lidocaine burden. reduce the injectable maximum accordingly",
+      "Recognize early systemic toxicity. perioral numbness, metallic taste, tinnitus, then CNS excitation",
+      "Reduce maximum dose in hepatic impairment, cardiac failure, and small or elderly patients",
+      "Methemoglobinemia risk is additive with prilocaine and benzocaine"
+    ]
+  },
+  {
+    "name": "Voltaren",
+    "genericName": "Diclofenac",
+    "medlineID": "a689002",
+    "drugClass": "NSAID",
+    "commonUse": ["Pain"],
+    "sideEffects": [
+      {
+        "effect": "Difficulty swallowing",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Pain or burning in throat",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Patient is already on an NSAID. do not add ibuprofen or naproxen for dental pain; use acetaminophen",
+      "Platelet inhibition increases post-operative bleeding. use local hemostatic measures",
+      "Cross-reactivity with aspirin/NSAID hypersensitivity. avoid in aspirin-exacerbated respiratory disease",
+      "Higher GI bleeding risk in elderly patients and with alcohol"
+    ]
+  },
+  {
+    "name": "Wellbutrin XL",
+    "genericName": "Buproprion XL",
+    "medlineID": "a695033",
+    "drugClass": "NDRI",
+    "commonUse": ["Depression", "Smoking cessation"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Vomiting",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Increased urination",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Dizziness",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Avoid NSAIDs/aspirin for dental pain where possible. increased bleeding risk; acetaminophen is preferred",
+      "Note xerostomia"
+    ]
+  },
+  {
+    "name": "Deltasone",
+    "genericName": "Prednisone",
+    "medlineID": "a601102",
+    "drugClass": "Corticosteroid",
+    "commonUse": ["Steroid"],
+    "sideEffects": [],
+    "precautions": [
+      "Long-term therapy causes adrenal suppression. consider stress dosing for major oral surgery after consulting the prescriber",
+      "Never advise abrupt discontinuation. adrenal crisis risk",
+      "Treat oral candidiasis actively. nystatin, clotrimazole troche, or fluconazole",
+      "Impaired healing and masked infection signs after extraction. extended follow-up and low threshold for antibiotics",
+      "Avoid adding NSAIDs. additive GI bleeding risk"
+    ]
+  },
+  {
+    "name": "Zetia",
+    "genericName": "Ezetimibe",
+    "medlineID": "a603015",
+    "drugClass": "Antihyperlipidemic",
+    "commonUse": ["Cholesterol"],
+    "sideEffects": [
+      {
+        "effect": "Pain or tenderness around the eyes and cheekbones",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Advise the patient to report unexplained muscle pain, particularly if also on a statin"
+    ]
+  },
+  {
+    "name": "Evista",
+    "genericName": "Raloxifene",
+    "medlineID": "a698007",
+    "drugClass": "SERM (Selective Estrogen Receptor Modulator)",
+    "commonUse": ["Osteoporosis"],
+    "sideEffects": [
+      {
+        "effect": "Vomiting",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Thromboembolic risk with prolonged immobilization. avoid unnecessarily long single appointments",
+      "Unlike bisphosphonates and denosumab, raloxifene is not associated with MRONJ. no antiresorptive precautions needed"
+    ]
+  },
+  {
+    "name": "Dilantin",
+    "genericName": "Phenytoin",
+    "medlineID": "a682022",
+    "drugClass": "Anticonvulsant",
+    "commonUse": ["Seizure"],
+    "sideEffects": [
+      {
+        "effect": "Gingival hyperplasia",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Difficulty speaking",
+        "prevalence": "RARE"
+      }
+    ],
+    "precautions": [
+      "Gingival overgrowth affects up to half of patients. meticulous plaque control, 3-month recall, chlorhexidine as adjunct",
+      "Gingivectomy may be required for severe overgrowth. recurrence is likely unless hygiene improves or the drug is changed",
+      "Do not advise interrupting therapy. be prepared to manage a seizure in the chair"
+    ]
+  },
+  {
+    "name": "Lovaza",
+    "genericName": "Omega-3 fatty acids",
+    "medlineID": "a607065",
+    "drugClass": "Anti-triglyceride",
+    "commonUse": ["Hypertriglyceridemia"],
+    "sideEffects": [
+      {
+        "effect": "Altered taste / taste perversion (fishy taste/burping)",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "May add modestly to bleeding risk with aspirin, NSAIDs, or anticoagulants. use local hemostatic measures",
+      "Screen for fish and shellfish allergy"
+    ]
+  },
+  {
+    "name": "Zanaflex",
+    "genericName": "Tizanidine",
+    "medlineID": "a601121",
+    "drugClass": "Muscle relaxant",
+    "commonUse": ["Muscle relaxer"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Dizziness",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Additive CNS and respiratory depression with opioids and dental sedation",
+      "Xerostomia is very common. fluoride, saliva substitutes, shortened recall",
+      "Orthostatic hypotension. slow chair repositioning"
+    ]
+  },
+  {
+    "name": "Hytrin",
+    "genericName": "Terazosin",
+    "medlineID": "a693046",
+    "drugClass": "Alpha-1 blocker",
+    "commonUse": ["BPH"],
+    "sideEffects": [
+      {
+        "effect": "Vomiting",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "First-dose and dose-escalation syncope. do not schedule procedures within 12 hours of a dose increase",
+      "Orthostatic hypotension. sit the patient upright for 1-2 minutes before standing"
+    ]
+  },
+  {
+    "name": "Dyrenium",
+    "genericName": "Triamterene",
+    "medlineID": "a682337",
+    "drugClass": "Diuretic",
+    "commonUse": ["Fluid"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Frequent urination",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Avoid NSAIDs. hyperkalemia and renal risk; use acetaminophen",
+      "Xerostomia. fluoride and saliva substitutes",
+      "Hyperkalemia increases arrhythmia risk under sedation"
+    ]
+  },
+  {
+    "name": "Altace",
+    "genericName": "Ramipril",
+    "medlineID": "a692027",
+    "drugClass": "ACE inhibitor",
+    "commonUse": ["Hypertension"],
+    "sideEffects": [
+      {
+        "effect": "Angioedema",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Cough",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Vomiting",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Angioedema can present as sudden lip, tongue, or airway swelling. airway emergency; do not mistake it for anesthetic allergy",
+      "Avoid NSAIDs for dental pain. use acetaminophen",
+      "Orthostatic hypotension. slow chair repositioning",
+      "Persistent dry cough may complicate supine treatment, rubber dam use, and impressions"
+    ]
+  },
+  {
+    "name": "Pravachol",
+    "genericName": "Pravastatin",
+    "medlineID": "a692025",
+    "drugClass": "Statin",
+    "commonUse": ["Cholesterol"],
+    "sideEffects": [
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Clarithromycin substantially raises pravastatin levels. prefer azithromycin or a penicillin",
+      "Pravastatin is not CYP3A4-metabolized, so azole antifungals and erythromycin pose less risk than with simvastatin or lovastatin",
+      "Advise the patient to report unexplained muscle pain or weakness"
+    ]
+  },
+  {
+    "name": "Risperdal",
+    "genericName": "Risperidone",
+    "medlineID": "a694015",
+    "drugClass": "Antipsychotic",
+    "commonUse": ["Schizophrenia", "Bipolar disorder"],
+    "sideEffects": [
+      {
+        "effect": "Sore throat",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Xerostomia",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Increased watering of mouth",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Pain or tenderness around the eyes and cheekbones",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Toothache",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Xerostomia. fluoride, saliva substitutes, shortened recall",
+      "Document tardive dyskinesia and orofacial movements at baseline. may make treatment and impressions difficult",
+      "Orthostatic hypotension. raise the chair slowly",
+      "Additive sedation with dental sedatives and opioids",
+      "Drug-induced hyperglycemia worsens caries, candidiasis, and periodontal status"
+    ]
+  },
+  {
+    "name": "Lunesta",
+    "genericName": "Eszopiclone",
+    "medlineID": "a605009",
+    "drugClass": "Hypnotic",
+    "commonUse": ["Insomnia"],
+    "sideEffects": [
+      {
+        "effect": "Unpleasant/bitter taste in mouth",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Xerostomia",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Unpleasant metallic taste is very common. reassure and distinguish from a dental cause before investigating",
+      "Xerostomia. fluoride and saliva substitutes",
+      "Additive sedation with dental sedatives and opioids",
+      "Next-morning impairment. advise against driving to early appointments after a dose"
+    ]
+  },
+  {
+    "name": "Celebrex",
+    "genericName": "Celecoxib",
+    "medlineID": "a699022",
+    "drugClass": "NSAID",
+    "commonUse": ["Pain"],
+    "sideEffects": [
+      {
+        "effect": "Change in taste",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Throat pain",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Difficulty swallowing",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Angioedema",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Swelling or inflammation of mouth",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Contraindicated in sulfonamide allergy",
+      "Less platelet inhibition than non-selective NSAIDs. may be preferable when post-operative bleeding is a concern",
+      "Do not add another NSAID for dental pain. use acetaminophen",
+      "Assess cardiovascular risk before prescribing for dental pain"
+    ]
+  },
+  {
+    "name": "Premarin",
+    "genericName": "Conjugated estrogens",
+    "medlineID": "a682922",
+    "drugClass": "Estrogen replacement",
+    "commonUse": ["Menopause", "Osteoporosis"],
+    "sideEffects": [],
+    "precautions": [
+      "Thromboembolic risk with prolonged immobilization. avoid unnecessarily long single appointments",
+      "May exaggerate the gingival inflammatory response to plaque. reinforce hygiene"
+    ]
+  },
+  {
+    "name": "Avelox",
+    "genericName": "Moxifloxacin",
+    "medlineID": "a600002",
+    "drugClass": "Antibiotic",
+    "commonUse": ["Bacterial infection"],
+    "sideEffects": [
+      {
+        "effect": "Change in taste",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Redness, swelling, or soreness of the tongue",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Sore mouth",
+        "prevalence": "RARE"
+      }
+    ],
+    "precautions": [
+      "Not first-line for odontogenic infection. reserve for culture-directed or unusual pathogens",
+      "QT prolongation. limit epinephrine in patients with cardiac disease and avoid other QT-prolonging drugs",
+      "Concurrent NSAIDs may increase CNS stimulation and seizure risk",
+      "Discontinue at the first sign of tendon pain; watch for C. difficile diarrhea"
+    ]
+  },
+  {
+    "name": "Aricept",
+    "genericName": "Donepezil",
+    "medlineID": "a697032",
+    "drugClass": "Acetylcholinesterase inhibitor",
+    "commonUse": ["Alzheimer's disease"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Cholinergic effect increases salivation. plan for moisture control during restorative procedures",
+      "Bradycardia and syncope risk. monitor pulse and use caution with sedation",
+      "Avoid anticholinergics (sedating antihistamines, TCAs) which oppose therapy and add xerostomia",
+      "Avoid NSAIDs post-operatively. increased GI bleeding risk",
+      "Confirm capacity and involve the caregiver in consent"
+    ]
+  },
+  {
+    "name": "Macrobid",
+    "genericName": "Nitrofurantoin",
+    "medlineID": "a682291",
+    "drugClass": "Antibiotic",
+    "commonUse": ["UTI", "Bacterial infection"],
+    "sideEffects": [],
+    "precautions": [
+      "Not appropriate for odontogenic infection. does not achieve therapeutic levels outside the urinary tract"
+    ]
+  },
+  {
+    "name": "Duragesic",
+    "genericName": "Fentanyl",
+    "medlineID": "a601202",
+    "drugClass": "Opioid analgesic",
+    "commonUse": ["Pain"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Do not add other opioids or benzodiazepine sedation. risk of fatal respiratory depression",
+      "Opioid-tolerant. standard dental opioid doses are ineffective; NSAID plus acetaminophen is preferred",
+      "Xerostomia with chronic use leads to rampant caries. aggressive prevention and short recall",
+      "Heat increases absorption from the patch. avoid warming blankets and a hot operatory"
+    ]
+  },
+  {
+    "name": "Imdur",
+    "genericName": "Isosorbide mononitrate",
+    "medlineID": "a682348",
+    "drugClass": "Nitrate",
+    "commonUse": ["Angina"],
+    "sideEffects": [
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Mucus producing cough",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Pain or tenderness around the eyes and cheekbones",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Redness of the face, neck, arms, and occasionally upper chest",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Redness, swelling, or soreness of the tongue",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Sore mouth",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Tooth disorder",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Tender, swollen glands in the neck",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "White patches inside the mouth",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Confirm no PDE5 inhibitor use before giving nitroglycerin from the emergency kit",
+      "Orthostatic hypotension. slow chair repositioning",
+      "Document glossitis and oral ulceration and follow up"
+    ]
+  },
+  {
+    "name": "Prozac",
+    "genericName": "Fluoxetine",
+    "medlineID": "a689006",
+    "drugClass": "SSRI",
+    "commonUse": ["Depression", "Anxiety"],
+    "sideEffects": [
+      {
+        "effect": "Change in taste",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Flushing or redness of face and neck",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Xerostomia",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Bruxism",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Avoid NSAIDs/aspirin for dental pain where possible. increased bleeding risk; acetaminophen is preferred",
+      "Screen for SSRI-associated bruxism. consider occlusal guard",
+      "Xerostomia. fluoride, saliva substitutes, shortened recall",
+      "Avoid tramadol. serotonin syndrome risk",
+      "Long half-life. interaction risk persists for several weeks after discontinuation"
+    ]
+  },
+  {
+    "name": "Vyvanse",
+    "genericName": "Lisdexamfetamine",
+    "medlineID": "a607047",
+    "drugClass": "CNS stimulant",
+    "commonUse": ["ADHD"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Vomiting",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Bruxism",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Xerostomia with high caries risk. fluoride varnish, saliva substitutes, dietary counseling, shortened recall",
+      "Screen for stimulant-associated bruxism and clenching. consider occlusal guard",
+      "Limit epinephrine and avoid epinephrine-impregnated retraction cord. additive cardiovascular stimulation",
+      "Check blood pressure and pulse before treatment"
+    ]
+  },
+  {
+    "name": "HumaLOG",
+    "genericName": "Insulin lispro",
+    "medlineID": "a697021",
+    "drugClass": "Rapid-acting insulin",
+    "commonUse": ["Diabetes", "Insulin"],
+    "sideEffects": [
+      {
+        "effect": "Sore throat",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Tender, swollen glands in the neck",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Confirm the patient has eaten and dosed as usual. schedule morning appointments",
+      "Keep a fast-acting glucose source chairside. hypoglycemic perioral numbness can be mistaken for anesthesia",
+      "Procedural stress, pain, and infection destabilize glucose control",
+      "Diabetes and periodontitis are bidirectional. aggressive periodontal therapy and short recall"
+    ]
+  },
+  {
+    "name": "Depakote",
+    "genericName": "Valproate sodium",
+    "medlineID": "a682412",
+    "drugClass": "Anticonvulsant",
+    "commonUse": ["Seizure"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Tender, swollen glands in the neck",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Change in taste",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Neck pain",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Pain or tenderness around the eyes and cheekbones",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Redness, swelling, or soreness of the tongue",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Neck stiffness and pain",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Thrombocytopenia and platelet dysfunction. check CBC before invasive procedures; expect prolonged bleeding",
+      "Do not advise interrupting therapy. be prepared to manage a seizure in the chair",
+      "Monitor gingival health. gingival changes are reported",
+      "Xerostomia. fluoride and saliva substitutes"
+    ]
+  },
+  {
+    "name": "Adderall",
+    "genericName": "Amphetamine salts",
+    "medlineID": "a601234",
+    "drugClass": "CNS stimulant",
+    "commonUse": ["ADHD"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Bruxism",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Xerostomia with high caries risk. fluoride varnish, saliva substitutes, dietary counseling, shortened recall",
+      "Screen for stimulant-associated bruxism and clenching. consider occlusal guard",
+      "Limit epinephrine and avoid epinephrine-impregnated retraction cord. additive cardiovascular stimulation",
+      "Check blood pressure and pulse before treatment"
+    ]
+  },
+  {
+    "name": "Bentyl",
+    "genericName": "Dicyclomine",
+    "medlineID": "a684007",
+    "drugClass": "Anti-spasmodic anticholinergic",
+    "commonUse": ["IBS"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Xerostomia. fluoride, saliva substitutes, shortened recall",
+      "Avoid adding anticholinergics such as sedating antihistamines",
+      "Impaired thermoregulation. avoid long appointments in a warm operatory"
+    ]
+  },
+  {
+    "name": "Imitrex",
+    "genericName": "Sumatriptan",
+    "medlineID": "a601116",
+    "drugClass": "Anti-migraine",
+    "commonUse": ["Migraine"],
+    "sideEffects": [
+      {
+        "effect": "Change in taste",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Jaw tightness/pressure",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Jaw, neck, and throat tightness is a common triptan effect. differentiate from TMD and odontogenic pain before treating",
+      "Jaw pain in a patient with cardiovascular risk factors may be cardiac ischemia",
+      "Vasoconstrictive. limit epinephrine in patients with coronary disease",
+      "Serotonin syndrome risk with tramadol prescribed for dental pain"
+    ]
+  },
+  {
+    "name": "Protonix",
+    "genericName": "Pantoprazole",
+    "medlineID": "a601246",
+    "drugClass": "PPI",
+    "commonUse": ["Stomach acid"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Assess for GERD-related dental erosion. fluoride and neutral rinses; avoid brushing immediately after reflux",
+      "Long-term use is associated with hypomagnesemia and B12 deficiency. may present as glossitis or burning mouth"
+    ]
+  },
+  {
+    "name": "Lopressor",
+    "genericName": "Metoprolol",
+    "medlineID": "a682864",
+    "drugClass": "Beta-blocker",
+    "commonUse": ["Angina", "Hypertension"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Cardioselective beta blocker. limit epinephrine to about 0.04 mg, aspirate, and avoid epinephrine-impregnated retraction cord",
+      "Do not advise stopping before appointments. rebound tachycardia and angina",
+      "Orthostatic hypotension. slow chair repositioning",
+      "Blunts early warning signs of hypoglycemia in diabetic patients",
+      "Avoid NSAIDs. blunts the antihypertensive effect"
+    ]
+  },
+  {
+    "name": "Valium",
+    "genericName": "Diazepam",
+    "medlineID": "a682047",
+    "drugClass": "Benzodiazepine",
+    "commonUse": ["Anxiety"],
+    "sideEffects": [],
+    "precautions": [
+      "Do not combine with opioids. risk of fatal respiratory depression",
+      "Erythromycin, clarithromycin, and azole antifungals increase diazepam levels and prolong sedation",
+      "Long-acting active metabolites. impairment may persist into the next day; escort required",
+      "Chronic users are tolerant. oral sedation may be ineffective at usual doses",
+      "Have flumazenil and airway equipment available when used for sedation"
+    ]
+  },
+  {
+    "name": "Viagra",
+    "genericName": "Sildenafil",
+    "medlineID": "a699015",
+    "drugClass": "PDE5 inhibitor",
+    "commonUse": ["Erectile dysfunction", "Pulmonary hypertension"],
+    "sideEffects": [
+      {
+        "effect": "Pain or tenderness around the eyes and cheekbones",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Cough",
+        "prevalence": "Rare"
+      },
+      {
+        "effect": "Difficulty swallowing",
+        "prevalence": "Rare"
+      },
+      {
+        "effect": "Increased salivation",
+        "prevalence": "Rare"
+      },
+      {
+        "effect": "Redness or irritation of the tongue",
+        "prevalence": "Rare"
+      },
+      {
+        "effect": "Redness, soreness, swelling or bleeding of gums",
+        "prevalence": "Rare"
+      },
+      {
+        "effect": "Mouth sores",
+        "prevalence": "Rare"
+      },
+      {
+        "effect": "Vomiting",
+        "prevalence": "Rare"
+      }
+    ],
+    "precautions": [
+      "Do not administer nitroglycerin within 24 hours of a sildenafil dose. risk of catastrophic hypotension",
+      "Nitrous oxide is not a nitrate and does not interact with sildenafil. this is a common point of confusion",
+      "Erythromycin, clarithromycin, and azole antifungals raise sildenafil levels",
+      "Monitor blood pressure and reposition the chair slowly"
+    ]
+  },
+  {
+    "name": "Januvia",
+    "genericName": "Sitagliptin",
+    "medlineID": "a606023",
+    "drugClass": "Antidiabetic",
+    "commonUse": ["Diabetes"],
+    "sideEffects": [
+      {
+        "effect": "Cough",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Sore throat",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Low hypoglycemia risk alone, higher when combined with insulin or a sulfonylurea. keep a glucose source chairside",
+      "Confirm the patient has eaten before treatment",
+      "Reported arthralgias may be confused with temporomandibular joint pain",
+      "Diabetes and periodontitis are bidirectional. aggressive periodontal therapy and short recall"
+    ]
+  },
+  {
+    "name": "Reglan",
+    "genericName": "Metoclopramide",
+    "medlineID": "a684035",
+    "drugClass": "Dopamine antagonist prokinetic",
+    "commonUse": ["Gastrointestinal motility disorders"],
+    "sideEffects": [],
+    "precautions": [
+      "Additive sedation with nitrous oxide, benzodiazepines, and opioids",
+      "Acute dystonic reactions can present as trismus, tongue protrusion, or laryngospasm. treat as an office emergency",
+      "Boxed warning for tardive dyskinesia. document orofacial movements at baseline"
+    ]
+  },
+  {
+    "name": "Relafen",
+    "genericName": "Nabumetone",
+    "medlineID": "a692022",
+    "drugClass": "NSAID",
+    "commonUse": ["Pain"],
+    "sideEffects": [
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Patient is already on an NSAID. do not add ibuprofen or naproxen for dental pain; use acetaminophen",
+      "Platelet inhibition increases post-operative bleeding. use local hemostatic measures",
+      "Concurrent SSRI or SNRI use markedly increases bleeding risk",
+      "Avoid in patients with a history of GI bleeding"
+    ]
+  },
+  {
+    "name": "Keflex",
+    "genericName": "Cefalexin",
+    "medlineID": "a682733",
+    "drugClass": "Antibiotic",
+    "commonUse": ["Bacterial infection"],
+    "sideEffects": [],
+    "precautions": [
+      "Cross-reactivity with penicillin allergy is low (roughly 1-2%), but avoid with a history of anaphylaxis",
+      "Accepted alternative for infective endocarditis prophylaxis in patients with non-anaphylactic penicillin allergy (2 g)",
+      "Watch for antibiotic-associated or C. difficile diarrhea"
+    ]
+  },
+  {
+    "name": "Effexor",
+    "genericName": "Venlafaxine",
+    "medlineID": "a694020",
+    "drugClass": "SNRI antidepressant",
+    "commonUse": ["Depression", "Anxiety"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Change in taste",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Vomiting",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Avoid NSAIDs/aspirin for dental pain where possible. increased bleeding risk; acetaminophen is preferred",
+      "Avoid tramadol. serotonin syndrome risk",
+      "Xerostomia. fluoride, saliva substitutes, shortened recall",
+      "Can raise blood pressure. check before using epinephrine-containing anesthetic",
+      "Screen for drug-associated bruxism"
+    ]
+  },
+  {
+    "name": "Boniva",
+    "genericName": "Ibandronate",
+    "medlineID": "a605035",
+    "drugClass": "Bisphosphonate",
+    "commonUse": ["Osteoporosis"],
+    "sideEffects": [
+      {
+        "effect": "Loss of voice",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Cough",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Tooth disorder",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "MRONJ risk is low with oral bisphosphonates but rises with duration of therapy and concurrent corticosteroids",
+      "Complete dental examination and any needed extractions before therapy starts",
+      "Routine restorative and periodontal care is not contraindicated. discuss elective invasive surgery with the prescriber",
+      "Meticulous oral hygiene; instruct the patient to report jaw pain, numbness, or exposed bone",
+      "Patient must remain upright for 60 minutes after dosing"
+    ]
+  },
+  {
+    "name": "Axid",
+    "genericName": "Nizatidine",
+    "medlineID": "a694030",
+    "drugClass": "H2 receptor antagonist",
+    "commonUse": ["Stomach acid"],
+    "sideEffects": [
+      {
+        "effect": "Vomiting",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Xerostomia",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Tooth disorder",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Trouble swallowing",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Tender, swollen glands in the neck",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Assess for GERD-related dental erosion. fluoride and neutral rinses",
+      "Xerostomia. fluoride and saliva substitutes"
+    ]
+  },
+  {
+    "name": "Senna Lax",
+    "genericName": "Senna",
+    "medlineID": "a601112",
+    "drugClass": "Stimulant laxative",
+    "commonUse": ["Constipation"],
+    "sideEffects": [],
+    "precautions": [
+      "Chronic use causes electrolyte disturbance. review potassium before sedation"
+    ]
+  },
+  {
+    "name": "NovoLog",
+    "genericName": "Insulin aspart",
+    "medlineID": "a605013",
+    "drugClass": "Rapid-acting insulin",
+    "commonUse": ["Diabetes", "Insulin"],
+    "sideEffects": [
+      {
+        "effect": "Cough",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Sore throat",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Confirm the patient has eaten and dosed as usual. schedule morning appointments",
+      "Keep a fast-acting glucose source chairside. hypoglycemic perioral numbness can be mistaken for anesthesia",
+      "Procedural stress, pain, and infection destabilize glucose control",
+      "Diabetes and periodontitis are bidirectional. aggressive periodontal therapy and short recall"
+    ]
+  },
+  {
+    "name": "Ecotrin",
+    "genericName": "Aspirin",
+    "medlineID": "a682878",
+    "drugClass": "Antipyretic/Analgesic/Antiplatelet",
+    "commonUse": ["Pain", "Inflammation"],
+    "sideEffects": [],
+    "precautions": [
+      "Do not advise stopping aspirin taken for cardiovascular prophylaxis. local hemostatic measures are sufficient for most dental procedures",
+      "Do not add another NSAID for dental pain. use acetaminophen",
+      "Platelet inhibition is irreversible and lasts 7-10 days. expect prolonged post-operative oozing",
+      "Never place an aspirin tablet against mucosa for toothache. causes a chemical burn",
+      "Concurrent SSRI or anticoagulant use amplifies bleeding risk"
+    ]
+  },
+  {
+    "name": "Lioresal",
+    "genericName": "Baclofen",
+    "medlineID": "a682530",
+    "drugClass": "Muscle relaxant",
+    "commonUse": ["Muscle relaxer"],
+    "sideEffects": [],
+    "precautions": [
+      "Additive CNS and respiratory depression with dental sedatives and opioids",
+      "Do not advise abrupt discontinuation. withdrawal seizures",
+      "Escort required if the patient is drowsy after treatment"
+    ]
+  },
+  {
+    "name": "Flagyl",
+    "genericName": "Metronidazole",
+    "medlineID": "a689011",
+    "drugClass": "Antibiotic/Antiprotozoal",
+    "commonUse": ["Bacterial infection"],
+    "sideEffects": [
+      {
+        "effect": "Change in taste",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Xerostomia",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Pain or tenderness around the eyes and cheekbones",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Tender, swollen glands in the neck",
+        "prevalence": "RARE"
+      }
+    ],
+    "precautions": [
+      "Warn about metallic taste. it is expected and resolves after the course",
+      "Avoid alcohol and alcohol-containing mouthrinses including alcohol-based chlorhexidine. disulfiram-like reaction",
+      "Potentiates warfarin. check INR before invasive procedures",
+      "Frequently combined with amoxicillin for anaerobic and periodontal infections. the combination is intentional, not duplicative",
+      "Long courses risk peripheral neuropathy that may confound oral sensory assessment"
+    ]
+  },
+  {
+    "name": "Keppra",
+    "genericName": "Levetiracetam",
+    "medlineID": "a699059",
+    "drugClass": "Anticonvulsant",
+    "commonUse": ["Seizure"],
+    "sideEffects": [
+      {
+        "effect": "Tender, swollen glands in the neck",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Trouble swallowing",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Cough",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Do not advise interrupting therapy. be prepared to manage a seizure in the chair",
+      "Behavioral effects such as irritability and aggression. schedule for the patient's best behavioral window",
+      "Rare blood dyscrasias. check CBC if there are signs of bleeding or infection"
+    ]
+  },
+  {
+    "name": "Colcrys",
+    "genericName": "Colchicine",
+    "medlineID": "a682711",
+    "drugClass": "Anti-gout",
+    "commonUse": ["Gout"],
+    "sideEffects": [],
+    "precautions": [
+      "Do not co-prescribe clarithromycin or erythromycin. life-threatening colchicine toxicity; azole antifungals carry the same risk",
+      "Myelosuppression increases infection and bleeding risk around invasive procedures",
+      "Pale or gray tongue discoloration is a sign of serious toxicity. refer urgently"
+    ]
+  },
+  {
+    "name": "Zyprexa",
+    "genericName": "Olanzapine",
+    "medlineID": "a601213",
+    "drugClass": "Atypical antipsychotic",
+    "commonUse": ["Schizophrenia", "Bipolar disorder"],
+    "sideEffects": [
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Cough",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Watering of mouth",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Sore throat",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Vomiting",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Tender, swollen glands in the neck",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Document tardive dyskinesia and orofacial movements at baseline",
+      "Orthostatic hypotension. raise the chair slowly",
+      "Additive sedation with dental sedatives.",
+      "Drug-induced hyperglycemia worsens caries, candidiasis, and periodontal status"
+    ]
+  },
+  {
+    "name": "Avodart",
+    "genericName": "Dutasteride",
+    "medlineID": "a603001",
+    "drugClass": "5-alpha reductase inhibitor",
+    "commonUse": ["BPH"],
+    "sideEffects": [],
+    "precautions": []
+  },
+  {
+    "name": "TriCor",
+    "genericName": "Fenofibrate",
+    "medlineID": "a601052",
+    "drugClass": "Antihyperlipidemic",
+    "commonUse": ["Cholesterol"],
+    "sideEffects": [],
+    "precautions": []
+  },
+  {
+    "name": "Cardura",
+    "genericName": "Doxazosin",
+    "medlineID": "a693045",
+    "drugClass": "Alpha-1 blocker",
+    "commonUse": ["Hypertension", "BPH"],
+    "sideEffects": [
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Sore throat",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Orthostatic hypotension and syncope. sit the patient upright for 1-2 minutes before standing",
+      "Do not schedule procedures on the day of a first dose or dose increase",
+      "Alpha-1 blockade can blunt or reverse the pressor response to epinephrine. limit vasoconstrictor and monitor blood pressure"
+    ]
+  },
+  {
+    "name": "Aleve/Naprosyn",
+    "genericName": "Naproxen",
+    "medlineID": "a681029",
+    "drugClass": "NSAID",
+    "commonUse": ["Pain"],
+    "sideEffects": [
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Do not add ibuprofen or other NSAIDs for dental pain; use acetaminophen",
+      "Platelet inhibition increases post-operative bleeding. use local hemostatic measures",
+      "Concurrent SSRI or SNRI use markedly increases bleeding risk",
+      "Tinnitus may indicate toxicity"
+    ]
+  },
+  {
+    "name": "Aldactone",
+    "genericName": "Spironolactone",
+    "medlineID": "a682627",
+    "drugClass": "Diuretic",
+    "commonUse": ["Fluid", "Hypertension", "Acne"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Frequent urination",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Avoid NSAIDs. hyperkalemia and renal risk; use acetaminophen",
+      "Hyperkalemia increases arrhythmia risk under sedation",
+      "Orthostatic hypotension. slow chair repositioning",
+      "Xerostomia. fluoride and saliva substitutes"
+    ]
+  },
+  {
+    "name": "Namenda",
+    "genericName": "Memantine",
+    "medlineID": "a604006",
+    "drugClass": "NMDA antagonist",
+    "commonUse": ["Alzheimer's disease"],
+    "sideEffects": [
+      {
+        "effect": "Dizziness",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Confirm capacity and involve the caregiver in consent and post-operative instructions",
+      "Dizziness increases fall risk. assist the patient from the chair"
+    ]
+  },
+  {
+    "name": "Methadose",
+    "genericName": "Methadone",
+    "medlineID": "a682134",
+    "drugClass": "Opioid analgesic",
+    "commonUse": ["Pain", "Opioid addiction"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Do not add opioids for dental pain. additive respiratory depression and no added analgesia in a tolerant patient",
+      "QT prolongation. avoid azithromycin, clarithromycin, and erythromycin",
+      "Avoid benzodiazepine sedation, or use only with full monitoring",
+      "Xerostomia with chronic use causes rampant caries. aggressive prevention and short recall",
+      "Coordinate analgesia with the opioid treatment program. NSAID plus acetaminophen is first-line"
+    ]
+  },
+  {
+    "name": "Vasotec",
+    "genericName": "Enalapril",
+    "medlineID": "a686022",
+    "drugClass": "ACE inhibitor",
+    "commonUse": ["Hypertension"],
+    "sideEffects": [
+      {
+        "effect": "Dizziness",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Angioedema",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Cough",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Angioedema can present as sudden lip, tongue, or airway swelling. airway emergency; do not mistake it for anesthetic allergy",
+      "Avoid NSAIDs for dental pain. use acetaminophen",
+      "Orthostatic hypotension. slow chair repositioning",
+      "Persistent dry cough may complicate supine treatment and impressions"
+    ]
+  },
+  {
+    "name": "Tamiflu",
+    "genericName": "Oseltamivir",
+    "medlineID": "a699040",
+    "drugClass": "Antiviral",
+    "commonUse": ["Influenza"],
+    "sideEffects": [
+      {
+        "effect": "Vomiting",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Dizziness",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Defer elective dental care during active influenza. standard and droplet precautions if urgent treatment is needed",
+      "Neuropsychiatric effects such as confusion or delirium may affect cooperation and consent"
+    ]
+  },
+  {
+    "name": "Requip",
+    "genericName": "Ropinirole",
+    "medlineID": "a698013",
+    "drugClass": "Dopamine agonist antiparkinsonian",
+    "commonUse": ["Parkinsons"],
+    "sideEffects": [
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Xerostomia",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Orthostatic hypotension. raise the chair slowly",
+      "Sudden sleep onset and daytime somnolence. avoid appointments at peak sleepiness and arrange an escort",
+      "Xerostomia. fluoride and saliva substitutes",
+      "Dyskinesias make impressions and restorative work difficult. shorter appointments timed to an 'on' period"
+    ]
+  },
+  {
+    "name": "Penicillin VK",
+    "genericName": "Penicillin V potassium",
+    "medlineID": "a685015",
+    "drugClass": "Antibiotic",
+    "commonUse": ["Bacterial infection"],
+    "sideEffects": [
+      {
+        "effect": "Sore mouth or tongue",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "White patches in the mouth or tongue",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Contraindicated in penicillin allergy. verify the reaction history",
+      "Antibiotics are an adjunct, not a substitute for definitive treatment. drainage, pulpectomy, or extraction is still required",
+      "Advise backup contraception. reduced oral contraceptive efficacy is on the label",
+      "Complete the full course; watch for antibiotic-associated or C. difficile diarrhea",
+      "Watch for oral candidiasis with extended courses"
+    ],
+    "notes": "One of the most commonly prescribed medications post dental procedures"
+  },
+  {
+    "name": "Strattera",
+    "genericName": "Atomoxetine",
+    "medlineID": "a603013",
+    "drugClass": "NRI",
+    "commonUse": ["ADHD"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Vomiting",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Dizziness",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Xerostomia. fluoride, saliva substitutes, shortened recall",
+      "Raises heart rate and blood pressure. check both and limit epinephrine"
+    ]
+  },
+  {
+    "name": "Ambien",
+    "genericName": "Zolpidem",
+    "medlineID": "a693025",
+    "drugClass": "Hypnotic",
+    "commonUse": ["Insomnia"],
+    "sideEffects": [
+      {
+        "effect": "Pain or tenderness around the eyes and cheekbones",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Tender, swollen glands in the neck",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Hoarseness",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Difficulty speaking",
+        "prevalence": "RARE"
+      }
+    ],
+    "precautions": [
+      "Additive CNS and respiratory depression with dental sedatives and opioids",
+      "Residual next-morning impairment. advise against driving to early appointments after a dose",
+      "Do not combine with alcohol"
+    ]
+  },
+  {
+    "name": "Advair",
+    "genericName": "Salmeterol/Fluticasone",
+    "medlineID": "a699063",
+    "drugClass": "Beta-2 agonist/Corticosteroid",
+    "commonUse": ["Asthma", "COPD"],
+    "sideEffects": [
+      {
+        "effect": "Throat dryness",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Xerostomia, dry mouth",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Mucus producing cough",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Pain or tenderness around the eyes and cheekbones",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "White patches in the mouth or throat or on tongue",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Hoarseness",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Instruct the patient to rinse and spit after every dose. prevents oropharyngeal candidiasis and dysphonia",
+      "Inspect for oral candidiasis at each visit and treat actively",
+      "Not a rescue inhaler. confirm the patient has a rescue inhaler at every appointment",
+      "Xerostomia from inhaled therapy. fluoride and saliva substitutes",
+      "Diskus formulation contains lactose. caution in severe milk protein allergy"
+    ]
+  },
+  {
+    "name": "Levaquin",
+    "genericName": "Levofloxacin",
+    "medlineID": "a697040",
+    "drugClass": "Antibiotic",
+    "commonUse": ["Bacterial infection"],
+    "sideEffects": [
+      {
+        "effect": "Change in taste",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Dizziness",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Vomiting",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Not first-line for odontogenic infection. reserve for culture-directed or unusual pathogens",
+      "Concurrent NSAIDs may increase CNS stimulation and seizure risk",
+      "QT prolongation. limit epinephrine in patients with cardiac disease",
+      "Discontinue at the first sign of tendon pain; avoid in myasthenia gravis"
+    ]
+  },
+  {
+    "name": "Tofranil",
+    "genericName": "Imipramine",
+    "medlineID": "a682389",
+    "drugClass": "Tricyclic antidepressant",
+    "commonUse": ["Depression", "Anxiety"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "TCAs potentiate vasopressors. limit epinephrine, aspirate carefully, and avoid levonordefrin and epinephrine-impregnated retraction cord",
+      "Marked xerostomia. fluoride, saliva substitutes, shortened recall",
+      "Orthostatic hypotension. raise the chair slowly",
+      "Additive sedation with dental sedatives and opioids"
+    ]
+  },
+  {
+    "name": "Glucotrol",
+    "genericName": "Glipizide",
+    "medlineID": "a684060",
+    "drugClass": "Antidiabetic",
+    "commonUse": ["Diabetes"],
+    "sideEffects": [
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Dizziness",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Muscle stiffness",
+        "prevalence": "RARE"
+      }
+    ],
+    "precautions": [
+      "Sulfonylureas carry the highest hypoglycemia risk of the oral agents. confirm the patient has eaten and keep glucose chairside",
+      "Miconazole and fluconazole potentiate hypoglycemia. avoid or monitor closely if treating oral candidiasis",
+      "Aspirin and NSAIDs may also potentiate hypoglycemia",
+      "Diabetes and periodontitis are bidirectional. aggressive periodontal therapy and short recall"
+    ]
+  },
+  {
+    "name": "AcipHex",
+    "genericName": "Rabeprazole",
+    "medlineID": "a699060",
+    "drugClass": "PPI",
+    "commonUse": ["Stomach acid"],
+    "sideEffects": [
+      {
+        "effect": "Changes in taste",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Tender, swollen glands in the neck",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Assess for GERD-related dental erosion. fluoride and neutral rinses",
+      "Long-term use is associated with B12 deficiency. may present as glossitis or burning mouth"
+    ]
+  },
+  {
+    "name": "Otrexup",
+    "genericName": "Methotrexate",
+    "medlineID": "a682018",
+    "drugClass": "DMARD anticancer",
+    "commonUse": ["Rheumatoid arthritis", "Psoriasis", "Cancer"],
+    "sideEffects": [
+      {
+        "effect": "Vomiting",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Avoid NSAIDs. reduced methotrexate clearance and potentially fatal toxicity; use acetaminophen",
+      "Penicillins including amoxicillin can reduce methotrexate clearance. use short courses and monitor, or choose an alternative",
+      "Oral mucositis and ulceration are toxicity signs. refer to the prescriber rather than treating symptomatically",
+      "Myelosuppression. check CBC before invasive procedures; infection and bleeding risk",
+      "Schedule invasive procedures away from the weekly dose where possible"
+    ]
+  },
+  {
+    "name": "Cleocin",
+    "genericName": "Clindamycin",
+    "medlineID": "a682399",
+    "drugClass": "Antibiotic",
+    "commonUse": ["Bacterial infection", "Acne"],
+    "sideEffects": [],
+    "precautions": [
+      "Highest C. difficile risk of the common dental antibiotics. counsel the patient to report persistent or bloody diarrhea",
+      "No longer recommended for infective endocarditis prophylaxis (removed in the 2021 AHA update). use azithromycin, clarithromycin, or doxycycline in penicillin allergy",
+      "Do not combine with erythromycin or azithromycin. antagonistic",
+      "Take with a full glass of water and remain upright. esophageal irritation",
+      "Potentiates neuromuscular blocking agents under general anesthesia. inform the anesthesia team"
+    ]
+  },
+  {
+    "name": "Tylenol",
+    "genericName": "Acetaminophen",
+    "medlineID": "a681004",
+    "drugClass": "Analgesic/Antipyretic",
+    "commonUse": ["Pain"],
+    "sideEffects": [],
+    "precautions": [
+      "First-line for dental pain and can be alternated or combined with ibuprofen for better analgesia than either alone",
+      "Do not exceed 4 g/day in adults or 3 g/day in elderly or hepatically impaired patients",
+      "Check for hidden acetaminophen in combination opioid products before prescribing more",
+      "Sustained high doses can raise INR in warfarin patients. limit and monitor"
+    ],
+    "notes": "One of the most commonly prescribed medications post dental procedures"
+  },
+  {
+    "name": "Feosol",
+    "genericName": "Ferrous sulfate",
+    "medlineID": "a682778",
+    "drugClass": "Iron supplement",
+    "commonUse": ["Iron deficiency", "Vitamin"],
+    "sideEffects": [],
+    "precautions": [
+      "Liquid iron stains teeth. dilute, use a straw, and rinse after dosing",
+      "Separate from doxycycline and tetracycline by at least 2 hours. chelation reduces absorption",
+      "Iron deficiency itself presents orally as glossitis, angular cheilitis, and mucosal pallor"
+    ]
+  },
+  {
+    "name": "Relpax",
+    "genericName": "Eletriptan",
+    "medlineID": "a603029",
+    "drugClass": "Anti-migraine",
+    "commonUse": ["Migraine"],
+    "sideEffects": [
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Xerostomia",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Jaw, neck, and throat tightness is a common triptan effect. differentiate from TMD and odontogenic pain",
+      "Do not use within 72 hours of clarithromycin, erythromycin, itraconazole, or ketoconazole",
+      "Jaw pain in a patient with cardiovascular risk factors may be cardiac ischemia",
+      "Vasoconstrictive. limit epinephrine in patients with coronary disease"
+    ]
+  },
+  {
+    "name": "Robaxin",
+    "genericName": "Methocarbamol",
+    "medlineID": "a682579",
+    "drugClass": "Muscle relaxant",
+    "commonUse": ["Muscle relaxer"],
+    "sideEffects": [],
+    "precautions": [
+      "Additive CNS depression with dental sedatives and opioids",
+      "Escort required if the patient is drowsy after treatment"
+    ]
+  },
+  {
+    "name": "DiaBeta",
+    "genericName": "Glyburide",
+    "medlineID": "a684058",
+    "drugClass": "Antidiabetic",
+    "commonUse": ["Diabetes"],
+    "sideEffects": [],
+    "precautions": [
+      "Sulfonylureas carry the highest hypoglycemia risk of the oral agents. confirm the patient has eaten and keep glucose chairside",
+      "Miconazole and fluconazole potentiate hypoglycemia. avoid or monitor closely if treating oral candidiasis",
+      "Elderly patients have prolonged hypoglycemia risk with glyburide specifically",
+      "Diabetes and periodontitis are bidirectional. aggressive periodontal therapy and short recall"
+    ]
+  },
+  {
+    "name": "Celexa",
+    "genericName": "Citalopram",
+    "medlineID": "a699001",
+    "drugClass": "SSRI",
+    "commonUse": ["Depression", "Anxiety"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Change in taste",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Bruxism",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Watering of mouth",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Dose-dependent QT prolongation. avoid azithromycin, clarithromycin, and erythromycin",
+      "Avoid NSAIDs/aspirin for dental pain where possible. increased bleeding risk; acetaminophen is preferred",
+      "Xerostomia. fluoride, saliva substitutes, shortened recall",
+      "Screen for SSRI-associated bruxism",
+      "Avoid tramadol. serotonin syndrome risk"
+    ]
+  },
+  {
+    "name": "Benicar",
+    "genericName": "Olmesartan",
+    "medlineID": "a603006",
+    "drugClass": "ARB",
+    "commonUse": ["Hypertension"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Fruity breath",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Tender, swollen glands in the neck",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "RARE"
+      }
+    ],
+    "precautions": [
+      "Avoid NSAIDs for dental pain. blunts the antihypertensive effect and risks renal injury",
+      "Orthostatic hypotension. slow chair repositioning",
+      "Angioedema is less common than with ACE inhibitors but is reported. treat as an airway emergency",
+      "Xerostomia. fluoride and saliva substitutes"
+    ]
+  },
+  {
+    "name": "Coreg",
+    "genericName": "Carvedilol",
+    "medlineID": "a697042",
+    "drugClass": "Beta-blocker",
+    "commonUse": ["Hypertension"],
+    "sideEffects": [
+      {
+        "effect": "Bleeding gums",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Muscle pain",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Loose teeth",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Persistent breath odor",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Sore throat",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Redness or swelling of the gums",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Vomiting",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Difficulty speaking",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Non-selective beta blocker. epinephrine can produce a hypertensive response with reflex bradycardia; limit to about 0.04 mg, aspirate, and monitor blood pressure",
+      "Avoid epinephrine-impregnated retraction cord and intraligamentary injection of epinephrine-containing anesthetic",
+      "Do not advise stopping before appointments. rebound angina or infarction",
+      "Orthostatic hypotension. slow chair repositioning",
+      "Blunts early warning signs of hypoglycemia in diabetic patients"
+    ]
+  },
+  {
+    "name": "Spiriva",
+    "genericName": "Tiotropium",
+    "medlineID": "a604018",
+    "drugClass": "Anticholinergic",
+    "commonUse": ["COPD"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Sore throat",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Tender, swollen glands in the neck",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Cough",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Oral inflammation",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Fruity breath",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Muscle pain",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Vomiting",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "sores or white patches in mouth and/or on lips/tongue",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Hoarseness",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Xerostomia is very common. fluoride, saliva substitutes, shortened recall",
+      "Inspect for oral candidiasis. rinse and spit after inhaled therapy",
+      "Not a rescue inhaler. confirm the patient has a rescue inhaler at every appointment",
+      "Avoid adding anticholinergics such as sedating antihistamines"
+    ]
+  },
+  {
+    "name": "Xolair",
+    "genericName": "Omalizumab",
+    "medlineID": "a603031",
+    "drugClass": "Monoclonal antibody anti-IgE",
+    "commonUse": ["Allergy", "Asthma", "Biologic"],
+    "sideEffects": [
+      {
+        "effect": "Dryness or soreness of throat",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Pain or tenderness around the eyes and cheekbones",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Hoarseness",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Anaphylaxis can occur hours to days after a dose. confirm timing and ensure the emergency kit and epinephrine are ready",
+      "Severe asthma. confirm the rescue inhaler is present and avoid known triggers in the operatory"
+    ]
+  },
+  {
+    "name": "NitroStat",
+    "genericName": "Nitroglycerin",
+    "medlineID": "a601086",
+    "drugClass": "Nitrate",
+    "commonUse": ["Angina"],
+    "sideEffects": [
+      {
+        "effect": "Tender, swollen glands in the neck",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Flushing (especially on face and neck)",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Do not administer to a patient who has taken sildenafil or vardenafil in the last 24 hours, or tadalafil in the last 48 hours. risk of catastrophic hypotension",
+      "Ask the patient to bring their own supply to appointments and check the expiration date",
+      "Chest or jaw pain during treatment. stop, sit the patient up, and follow the office emergency protocol",
+      "Orthostatic hypotension after dosing. do not stand the patient up quickly"
+    ]
+  },
+  {
+    "name": "Eliquis",
+    "genericName": "Apixaban",
+    "medlineID": "a613032",
+    "drugClass": "Anticoagulant",
+    "commonUse": ["Blood thinner"],
+    "sideEffects": [
+      {
+        "effect": "Increased bleeding risk",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Do not interrupt without prescriber approval. most dental procedures including simple extractions can be done on therapy with local hemostasis",
+      "Where interruption is not needed, schedule invasive procedures at trough, immediately before the next scheduled dose",
+      "Avoid NSAIDs and aspirin for dental pain. use acetaminophen",
+      "Use local hemostatic measures. sutures, oxidized cellulose, and tranexamic acid rinse",
+      "No routine coagulation test correlates with effect. INR is not useful here"
+    ]
+  },
+  {
+    "name": "Neurontin",
+    "genericName": "Gabapentin",
+    "medlineID": "a694007",
+    "drugClass": "Anticonvulsant neuropathic pain",
+    "commonUse": ["Nerve pain"],
+    "sideEffects": [
+      {
+        "effect": "Mucus producing cough",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Mouth and/or throat dryness",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Flushing (especially on face and neck)",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Tender, swollen glands in the neck",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Increased sensitivity to pain",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Xerostomia",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Difficulty speaking",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Hoarseness",
+        "prevalence": "RARE"
+      }
+    ],
+    "precautions": [
+      "Additive respiratory depression with opioids. avoid combining or reduce doses",
+      "Additive sedation with dental sedatives",
+      "Do not advise interrupting therapy. seizure risk if prescribed as an anticonvulsant",
+      "Xerostomia. fluoride and saliva substitutes"
+    ]
+  },
+  {
+    "name": "Enbrel",
+    "genericName": "Etanercept",
+    "medlineID": "a602013",
+    "drugClass": "DMARD TNF inhibitor",
+    "commonUse": ["Rheumatoid arthritis", "Psoriatic arthritis"],
+    "sideEffects": [
+      {
+        "effect": "Pain or burning in throat",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Vomiting",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Xerostomia",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Irritation or soreness of the mouth or throat",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Immunosuppression. treat odontogenic infection promptly and aggressively; low threshold for antibiotics",
+      "Routine antibiotic prophylaxis is not indicated. discuss timing of elective invasive surgery with the prescriber",
+      "Instruct the patient to report oral ulceration or any infection that fails to resolve"
+    ]
+  },
+  {
+    "name": "Herceptin",
+    "genericName": "Trastuzumab",
+    "medlineID": "a699019",
+    "drugClass": "Monoclonal antibody HER2+",
+    "commonUse": ["Cancer", "Biologic"],
+    "sideEffects": [
+      {
+        "effect": "Change in or loss of taste",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Cracked lips",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Swelling or inflammation of the mouth",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Hoarseness",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Obtain oncology clearance and recent blood counts before invasive procedures",
+      "Neutropenia increases risk of oral infection and delayed healing. defer elective care during nadirs",
+      "Cardiotoxicity. jaw or chest pain warrants cardiac evaluation, not only a dental workup"
+    ]
+  },
+  {
+    "name": "Atripla",
+    "genericName": "Emtricitabine/Tenofovir/Efavirenz",
+    "medlineID": "a616048",
+    "drugClass": "Antiretroviral",
+    "commonUse": ["HIV/AIDS"],
+    "sideEffects": [
+      {
+        "effect": "Pain or tenderness around the eyes and cheekbones",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Efavirenz alters CYP3A4 metabolism of midazolam and triazolam. avoid oral sedation or coordinate with the prescriber",
+      "Hepatotoxicity risk. reduce maximum acetaminophen dosing and avoid prolonged courses",
+      "Screen for oral candidiasis, hairy leukoplakia, HSV, and periodontal disease at every visit",
+      "Do not advise interrupting therapy for dental treatment"
+    ]
+  },
+  {
+    "name": "Xarelto",
+    "genericName": "Rivaroxaban",
+    "medlineID": "a611049",
+    "drugClass": "Anticoagulant",
+    "commonUse": ["Blood thinner"],
+    "sideEffects": [
+      {
+        "effect": "Increased bleeding risk",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Dizziness",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Do not interrupt without prescriber approval. most dental procedures including simple extractions can be done on therapy with local hemostasis",
+      "Once-daily dosing. schedule invasive procedures at trough, immediately before the next scheduled dose",
+      "Avoid NSAIDs and aspirin for dental pain. use acetaminophen",
+      "Use local hemostatic measures. sutures, oxidized cellulose, and tranexamic acid rinse"
+    ]
+  },
+  {
+    "name": "Duopa",
+    "genericName": "Levodopa/Carbidopa",
+    "medlineID": "a601068",
+    "drugClass": "Antiparkinsonian",
+    "commonUse": ["Parkinsons"],
+    "sideEffects": [
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Xerostomia",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Change in taste",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Swollen mouth or tongue",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Hoarseness",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Difficulty speaking",
+        "prevalence": "RARE"
+      }
+    ],
+    "precautions": [
+      "Entacapone inhibits COMT and may exaggerate the cardiovascular response to epinephrine. use minimal vasoconstrictor and aspirate carefully",
+      "Orthostatic hypotension. raise the chair slowly",
+      "Dark saliva and urine are harmless but stain clothing and can discolor dental materials",
+      "Dyskinesias and dysphagia. shorter appointments timed to an 'on' period, careful positioning for aspiration risk"
+    ]
+  },
+  {
+    "name": "Levemir",
+    "genericName": "Insulin detemir",
+    "medlineID": "a606012",
+    "drugClass": "Long-acting insulin",
+    "commonUse": ["Diabetes", "Insulin"],
+    "sideEffects": [],
+    "precautions": [
+      "Confirm the patient has eaten and dosed as usual. schedule morning appointments",
+      "Keep a fast-acting glucose source chairside. hypoglycemic perioral numbness can be mistaken for anesthesia",
+      "Procedural stress, pain, and infection destabilize glucose control",
+      "Diabetes and periodontitis are bidirectional. aggressive periodontal therapy and short recall"
+    ]
+  },
+  {
+    "name": "Lovenox",
+    "genericName": "Enoxaparin",
+    "medlineID": "a601210",
+    "drugClass": "Anticoagulant",
+    "commonUse": ["Blood thinner"],
+    "sideEffects": [
+      {
+        "effect": "Increased bleeding risk",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Coordinate with the prescriber. most dental procedures can be done on therapy with local hemostasis",
+      "Schedule invasive procedures at trough, roughly 12 hours after the last dose",
+      "Avoid NSAIDs and aspirin for dental pain. use acetaminophen",
+      "Use local hemostatic measures. sutures, oxidized cellulose, and tranexamic acid rinse"
+    ]
+  },
+  {
+    "name": "Ritalin/Concerta",
+    "genericName": "Methylphenidate",
+    "medlineID": "a682188",
+    "drugClass": "CNS stimulant",
+    "commonUse": ["ADHD"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Vomiting",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Difficulty speaking",
+        "prevalence": "RARE"
+      }
+    ],
+    "precautions": [
+      "Xerostomia with high caries risk. fluoride varnish, saliva substitutes, dietary counseling, shortened recall",
+      "Screen for stimulant-associated bruxism and clenching. consider occlusal guard",
+      "Limit epinephrine and avoid epinephrine-impregnated retraction cord. additive cardiovascular stimulation",
+      "Check blood pressure and pulse before treatment"
+    ]
+  },
+  {
+    "name": "Crestor",
+    "genericName": "Rosuvastatin",
+    "medlineID": "a603033",
+    "drugClass": "Statin",
+    "commonUse": ["Cholesterol"],
+    "sideEffects": [
+      {
+        "effect": "Tender, swollen glands in the neck",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Dry or sore throat",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Dizziness",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Flushing (especially on face and neck)",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Pain or tenderness around the eyes and cheekbones",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Clarithromycin raises rosuvastatin exposure. prefer azithromycin or a penicillin",
+      "Rosuvastatin is not CYP3A4-metabolized, so azole antifungals pose less risk than with simvastatin or lovastatin",
+      "Advise the patient to report unexplained muscle pain or weakness"
+    ]
+  },
+  {
+    "name": "Prolia/Xgeva",
+    "genericName": "Denosumab",
+    "medlineID": "a610023",
+    "drugClass": "Monoclonal antibody RANKL inhibitor",
+    "commonUse": ["Osteoporosis", "Biologic"],
+    "sideEffects": [
+      {
+        "effect": "Diziness",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Hoarseness",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Comprehensive dental examination and completion of invasive treatment before therapy starts",
+      "Avoid elective invasive procedures during therapy. denosumab is not incorporated into bone, so effect wanes by about 6 months; time unavoidable extractions late in the dosing interval with the prescriber",
+      "Meticulous oral hygiene and regular recall. report jaw pain, numbness, or exposed bone promptly",
+      "Do not delay treatment of active odontogenic infection. infection is itself an MRONJ trigger"
+    ]
+  },
+  {
+    "name": "Pradaxa",
+    "genericName": "Dabigatran",
+    "medlineID": "a610024",
+    "drugClass": "Anticoagulant",
+    "commonUse": ["Blood thinner"],
+    "sideEffects": [
+      {
+        "effect": "Increased bleeding risk",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Do not interrupt without prescriber approval. most dental procedures can be done on therapy with local hemostasis",
+      "Schedule invasive procedures at trough, immediately before the next scheduled dose",
+      "Avoid NSAIDs and aspirin for dental pain. use acetaminophen",
+      "Use local hemostatic measures. sutures, oxidized cellulose, and tranexamic acid rinse",
+      "Idarucizumab is available for emergency reversal, but only in a hospital setting"
+    ]
+  },
+  {
+    "name": "Clomid",
+    "genericName": "Clomiphene",
+    "medlineID": "a682704",
+    "drugClass": "SERM fertility",
+    "commonUse": ["Fertility"],
+    "sideEffects": [
+      {
+        "effect": "Dizziness",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Vomiting",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Confirm pregnancy status. dental radiography with a thyroid collar and rectangular collimation remains acceptable, but defer elective imaging where possible"
+    ]
+  },
+  {
+    "name": "Vesicare",
+    "genericName": "Solifenacin",
+    "medlineID": "a605019",
+    "drugClass": "Antimuscarinic",
+    "commonUse": ["Bladder"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Vomiting",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Xerostomia is the dominant dental issue. fluoride, saliva substitutes, shortened recall",
+      "Avoid adding anticholinergics such as sedating antihistamines or TCAs",
+      "Impaired thermoregulation. avoid long appointments in a warm operatory"
+    ]
+  },
+  {
+    "name": "Haldol",
+    "genericName": "Haloperidol",
+    "medlineID": "a682180",
+    "drugClass": "Antipsychotic",
+    "commonUse": ["Schizophrenia"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Vomiting",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Difficulty speaking",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Tardive dyskinesia produces chewing, lip smacking, and tongue movement that make treatment and impressions difficult. document at baseline",
+      "Acute dystonia can present as trismus, tongue protrusion, or laryngospasm. office emergency",
+      "QT prolongation. avoid azithromycin, clarithromycin, and erythromycin",
+      "Xerostomia. fluoride and saliva substitutes",
+      "Rare agranulocytosis. oral ulceration or unexplained infection warrants a CBC"
+    ]
+  },
+  {
+    "name": "Ala-Cort",
+    "genericName": "Hydrocortisone",
+    "medlineID": "a682793",
+    "drugClass": "Corticosteroid",
+    "commonUse": ["Eczema", "Topical"],
+    "sideEffects": [
+      {
+        "effect": "puffiness or swelling of the eyelids or around the eyes, face or lips",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Topical formulation. systemic adrenal suppression is unlikely and steroid stress dosing is not required unless the patient is also on systemic corticosteroid",
+      "With extensive or long-term occlusive use, watch for oral candidiasis and impaired healing"
+    ]
+  },
+  {
+    "name": "HumuLIN N",
+    "genericName": "Insulin isophane NPH",
+    "medlineID": "a682611",
+    "drugClass": "Intermediate-acting insulin",
+    "commonUse": ["Diabetes", "Insulin"],
+    "sideEffects": [],
+    "precautions": [
+      "Confirm the patient has eaten and dosed as usual. schedule morning appointments",
+      "Keep a fast-acting glucose source chairside. hypoglycemic perioral numbness can be mistaken for anesthesia",
+      "Procedural stress, pain, and infection destabilize glucose control",
+      "Diabetes and periodontitis are bidirectional. aggressive periodontal therapy and short recall"
+    ]
+  },
+  {
+    "name": "Isentress",
+    "genericName": "Raltegravir",
+    "medlineID": "a608004",
+    "drugClass": "Integrase inhibitor",
+    "commonUse": ["HIV/AIDS"],
+    "sideEffects": [
+      {
+        "effect": "dizziness",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Screen for oral candidiasis, HSV, and periodontal disease at every visit",
+      "Fewer interactions than protease-inhibitor regimens, but verify sedation and antifungal choices with the prescriber"
+    ]
+  },
+  {
+    "name": "Stelara",
+    "genericName": "Ustekinumab",
+    "medlineID": "a611013",
+    "drugClass": "Monoclonal antibody IL-12/23",
+    "commonUse": [
+      "Psoriasis",
+      "Crohn's disease",
+      "Psoriatic arthritis",
+      "Biologic"
+    ],
+    "sideEffects": [
+      {
+        "effect": "Pain or tenderness around the eyes and cheekbones",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Muscle pain, cramps or stistiffness",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Immunosuppression. treat odontogenic infection promptly and aggressively",
+      "Instruct the patient to report oral ulceration or any infection that fails to resolve",
+      "Discuss timing of elective invasive surgery with the prescriber"
+    ]
+  },
+  {
+    "name": "Mobic",
+    "genericName": "Meloxicam",
+    "medlineID": "a601242",
+    "drugClass": "NSAID",
+    "commonUse": ["Pain"],
+    "sideEffects": [
+      {
+        "effect": "Change in taste",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Xerostomia",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Pain or burning in thrthroat",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Dizziness",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Patient is already on an NSAID. do not add ibuprofen or naproxen for dental pain; use acetaminophen",
+      "Platelet inhibition increases post-operative bleeding. use local hemostatic measures",
+      "Concurrent SSRI or SNRI use markedly increases bleeding risk",
+      "Chest pain radiating to the jaw is a cardiac warning sign, not a dental one"
+    ]
+  },
+  {
+    "name": "Remicade",
+    "genericName": "Infliximab",
+    "medlineID": "a604023",
+    "drugClass": "Monoclonal antibody TNF inhibitor",
+    "commonUse": [
+      "Rheumatoid arthritis",
+      "Crohn's disease",
+      "Psoriatic arthritis",
+      "Biologic"
+    ],
+    "sideEffects": [
+      {
+        "effect": "Pain or tenderness around the eyes and cheekbones",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Hoarseness",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Immunosuppression. treat odontogenic infection promptly and aggressively; low threshold for antibiotics",
+      "Discuss timing of elective invasive procedures relative to the infusion cycle with the prescriber",
+      "Instruct the patient to report oral ulceration or any infection that fails to resolve",
+      "Cytopenias are reported. check CBC before major surgery"
+    ]
+  },
+  {
+    "name": "Renvela",
+    "genericName": "Sevelamer",
+    "medlineID": "a601248",
+    "drugClass": "Phosphate binder",
+    "commonUse": ["Kidney", "Dialysis"],
+    "sideEffects": [
+      {
+        "effect": "Acidic Stomach",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Binds co-administered oral drugs. give dental antibiotics at least 1 hour before or 3 hours after sevelamer",
+      "Doxycycline and ciprofloxacin specifically require separation. check timing when prescribing",
+      "Dialysis patient. schedule dental care on non-dialysis days, since heparin given during dialysis increases bleeding",
+      "Avoid NSAIDs in renal impairment. use acetaminophen"
+    ]
+  },
+  {
+    "name": "Fragmin",
+    "genericName": "Dalteparin",
+    "medlineID": "a696006",
+    "drugClass": "Anticoagulant",
+    "commonUse": ["Blood thinner"],
+    "sideEffects": [
+      {
+        "effect": "Increased bleeding risk",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Coordinate with the prescriber. most dental procedures can be done on therapy with local hemostasis",
+      "Schedule invasive procedures at trough, roughly 12 hours after the last dose",
+      "Avoid NSAIDs and aspirin for dental pain. use acetaminophen",
+      "Use local hemostatic measures. sutures, oxidized cellulose, and tranexamic acid rinse"
+    ]
+  },
+  {
+    "name": "Zoloft",
+    "genericName": "Sertraline",
+    "medlineID": "a697048",
+    "drugClass": "SSRI",
+    "commonUse": ["Depression", "Anxiety"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Pain or tenderness around the eyes and cheekbones",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Flushing or redness of the skin",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Hoarseness",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Difficulty speaking",
+        "prevalence": "RARE"
+      }
+    ],
+    "precautions": [
+      "Avoid NSAIDs/aspirin for dental pain where possible. increased bleeding risk; acetaminophen is preferred",
+      "Avoid tramadol. serotonin syndrome risk",
+      "Xerostomia. fluoride, saliva substitutes, shortened recall",
+      "Screen for SSRI-associated bruxism. consider occlusal guard",
+      "Monitor for prolonged post-operative bleeding and use local hemostatic measures"
+    ]
+  },
+  {
+    "name": "Klonopin",
+    "genericName": "Clonazepam",
+    "medlineID": "a682279",
+    "drugClass": "Benzodiazepine",
+    "commonUse": ["Anxiety", "Seizure"],
+    "sideEffects": [
+      {
+        "effect": "Dysphagia",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Dryness or soreness of the throat",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Pain or tenderness around the eyes and cheekbones",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Puffiness or swelling of the eyelids or around the eyes, face or lips",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Increased watering of the mouth",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Redness of the face neck or upper chest",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Thickening of the tongue",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Tooth disorder",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Difficulty speaking",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Hoarseness",
+        "prevalence": "RARE"
+      }
+    ],
+    "precautions": [
+      "Do not co-prescribe opioids for dental pain. risk of fatal respiratory depression",
+      "Additive sedation with nitrous oxide and oral sedation. reduce doses and monitor",
+      "Chronic users are benzodiazepine-tolerant. oral sedation may be ineffective at usual doses",
+      "Escort required after any sedation; reinforce no alcohol post-operatively"
+    ]
+  },
+  {
+    "name": "Avalide",
+    "genericName": "Hydrochlorothiazide/Irbesartan",
+    "medlineID": "a698009",
+    "drugClass": "Diuretic/ARB",
+    "commonUse": ["Hypertension", "Fluid"],
+    "sideEffects": [
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Xerostomia",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Cough",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Dryness or soreness of the throat",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Sores, ulcers or white spots in the mouth or on the lips",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Tender, swollen glands in the neck",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Trouble swallowing",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Frequent urination",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Avoid NSAIDs for dental pain. blunts the antihypertensive effect and risks renal injury",
+      "Orthostatic hypotension, worsened by dehydration. slow chair repositioning",
+      "Xerostomia. fluoride and saliva substitutes",
+      "Angioedema is reported with ARBs. treat as an airway emergency"
+    ]
+  },
+  {
+    "name": "Ceftin",
+    "genericName": "Cefuroxime",
+    "medlineID": "a601206",
+    "drugClass": "Antibiotic",
+    "commonUse": ["Bacterial infection"],
+    "sideEffects": [
+      {
+        "effect": "Change in taste",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Flushing or redness of the skin",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Irritation or soreness of the mouth",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Muscle spasm of the neck",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Muscle pain",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Swelling of the tongue",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Watering of the mouth and drooling",
+        "prevalence": "RARE"
+      }
+    ],
+    "precautions": [
+      "Avoid in patients with a history of anaphylaxis to penicillin or any cephalosporin",
+      "Not first-line for odontogenic infection. penicillin VK or amoxicillin is preferred",
+      "Watch for antibiotic-associated or C. difficile diarrhea",
+      "Severe skin reactions with oral involvement (Stevens-Johnson syndrome). stop and refer urgently"
+    ]
+  },
+  {
+    "name": "Nizoral Topical",
+    "genericName": "Ketoconazole",
+    "medlineID": "a605014",
+    "drugClass": "Antifungal",
+    "commonUse": ["Fungal infection", "Topical"],
+    "sideEffects": [],
+    "precautions": [
+      "Topical only. unlike oral ketoconazole, it does not carry clinically significant interactions with dental medications"
+    ]
+  },
+  {
+    "name": "Lyrica",
+    "genericName": "Pregabalin",
+    "medlineID": "a605045",
+    "drugClass": "Anticonvulsant",
+    "commonUse": ["Nerve pain", "Seizure"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Difficulty speaking",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Hoarseness",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Easy bruising or unusual bleeding",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Additive respiratory depression with opioids. avoid combining or reduce doses",
+      "Additive sedation with dental sedatives. escort required",
+      "Xerostomia. fluoride and saliva substitutes",
+      "Do not advise interrupting therapy. seizure and withdrawal risk"
+    ]
+  },
+  {
+    "name": "Nexium",
+    "genericName": "Esomeprazole",
+    "medlineID": "a699054",
+    "drugClass": "PPI",
+    "commonUse": ["Stomach acid"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Change in taste",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Assess for GERD-related dental erosion. fluoride and neutral rinses; avoid brushing immediately after reflux",
+      "Long-term use is associated with hypomagnesemia and B12 deficiency. may present as glossitis or burning mouth",
+      "Xerostomia. fluoride and saliva substitutes"
+    ]
+  },
+  {
+    "name": "Combivent",
+    "genericName": "Albuterol/Ipratropium",
+    "medlineID": "a601063",
+    "drugClass": "Beta-2 agonist/Anticholinergic",
+    "commonUse": ["COPD", "Asthma"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Change in taste",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Voice changes",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Sore throat",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Xerostomia. fluoride, saliva substitutes, shortened recall",
+      "Instruct the patient to rinse and spit after each dose",
+      "Confirm a rescue inhaler is present at every appointment and avoid operatory triggers"
+    ]
+  },
+  {
+    "name": "Niacor",
+    "genericName": "Niacin",
+    "medlineID": "a682518",
+    "drugClass": "Vitamin B3",
+    "commonUse": ["Vitamin"],
+    "sideEffects": [
+      {
+        "effect": "Cough",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Flushing or redness of the skin",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Vomiting",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Flushing can be mistaken for an allergic reaction to local anesthetic. take a dosing history before treating it as anaphylaxis",
+      "Patients often take aspirin to blunt flushing. account for that when assessing bleeding risk and prescribing analgesics"
+    ]
+  },
+  {
+    "name": "Uroxatral",
+    "genericName": "Alfuzosin",
+    "medlineID": "a604002",
+    "drugClass": "Alpha-1 blocker",
+    "commonUse": ["BPH"],
+    "sideEffects": [
+      {
+        "effect": "Cough",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "hoarseness",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Dry/Sore throat",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Loss of voice",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Pain or tenderness around the eyes and cheekbones",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "tender, swollen glands in the neck",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Trouble swallowing",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Orthostatic hypotension and syncope. sit the patient upright for 1-2 minutes before standing",
+      "Contraindicated with ketoconazole and itraconazole; use caution with fluconazole, clarithromycin, and erythromycin",
+      "Alpha-1 blockade can blunt the pressor response to epinephrine. limit vasoconstrictor and monitor blood pressure",
+      "Jaw or arm pain in these patients may be cardiac ischemia"
+    ]
+  },
+  {
+    "name": "Biaxin",
+    "genericName": "Clarithromycin",
+    "medlineID": "a692005",
+    "drugClass": "Antibiotic",
+    "commonUse": ["Bacterial infection"],
+    "sideEffects": [
+      {
+        "effect": "Unusual or unpleasant taste in mouth",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Vomiting",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "QT prolongation and serious arrhythmia. avoid in patients with cardiac disease and in the elderly",
+      "Potent CYP3A4 inhibitor. do not co-prescribe with simvastatin, lovastatin, colchicine, triazolam, or midazolam",
+      "Bitter or metallic taste is very common. warn the patient it resolves after the course",
+      "Alternative to amoxicillin for infective endocarditis prophylaxis in penicillin-allergic patients (500 mg)",
+      "Watch for antibiotic-associated or C. difficile diarrhea"
+    ]
+  },
+  {
+    "name": "Zomig",
+    "genericName": "Zolmitriptan",
+    "medlineID": "a601129",
+    "drugClass": "Anti-migraine",
+    "commonUse": ["Migraine"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Dizziness",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Jaw, neck, and throat tightness is a common triptan effect. differentiate from TMD and odontogenic pain",
+      "Vasoconstrictive and can raise blood pressure. check blood pressure and limit epinephrine in patients with coronary disease",
+      "Jaw pain in a patient with cardiovascular risk factors may be cardiac ischemia"
+    ]
+  },
+  {
+    "name": "Invokana",
+    "genericName": "Canagliflozin",
+    "medlineID": "a613033",
+    "drugClass": "Antidiabetic",
+    "commonUse": ["Diabetes"],
+    "sideEffects": [
+      {
+        "effect": "Frequent urination",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Xerostomia",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Euglycemic ketoacidosis risk when fasting. confirm the holding plan with the prescriber before sedation or oral surgery",
+      "Confirm the patient has eaten and keep a glucose source chairside",
+      "Diabetes and periodontitis are bidirectional. aggressive periodontal therapy and short recall"
+    ]
+  },
+  {
+    "name": "Victoza",
+    "genericName": "Liraglutide",
+    "medlineID": "a611003",
+    "drugClass": "GLP-1",
+    "commonUse": ["Diabetes", "Weight loss"],
+    "sideEffects": [
+      {
+        "effect": "Vomiting",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Low hypoglycemia risk alone, higher when combined with insulin or a sulfonylurea"
+    ]
+  },
+  {
+    "name": "Ozempic",
+    "genericName": "Semaglutide",
+    "medlineID": "a618008",
+    "drugClass": "GLP-1",
+    "commonUse": ["Diabetes"],
+    "sideEffects": [
+      {
+        "effect": "Vomiting",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "GLP-1 agents have low hypoglycemia risk alone, higher when combined with insulin or a sulfonylurea"
+    ]
+  },
+  {
+    "name": "Wegovy",
+    "genericName": "Semaglutide",
+    "medlineID": "a618008",
+    "drugClass": "GLP-1",
+    "commonUse": ["Weight loss"],
+    "sideEffects": [
+      {
+        "effect": "Vomiting",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "GLP-1 agents have low hypoglycemia risk alone, higher when combined with insulin or a sulfonylurea"
+    ]
+  },
+  {
+    "name": "Mounjaro",
+    "genericName": "Tirzepatide",
+    "medlineID": "a622044",
+    "drugClass": "GLP-1",
+    "commonUse": ["Weight loss"],
+    "sideEffects": [
+      {
+        "effect": "Vomiting",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "GLP-1 agents have low hypoglycemia risk alone, higher when combined with insulin or a sulfonylurea"
+    ]
+  },
+  {
+    "name": "Trulicity",
+    "genericName": "Dulaglutide",
+    "medlineID": "a614047",
+    "drugClass": "GLP-1",
+    "commonUse": ["Diabetes"],
+    "sideEffects": [
+      {
+        "effect": "Vomiting",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "GLP-1 agents have low hypoglycemia risk alone, higher when combined with insulin or a sulfonylurea"
+    ]
+  },
+  {
+    "name": "Zepbound",
+    "genericName": "Tirzepatide",
+    "medlineID": "a622044",
+    "drugClass": "GLP-1",
+    "commonUse": ["Weight loss"],
+    "sideEffects": [
+      {
+        "effect": "Vomiting",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "GLP-1 agents have low hypoglycemia risk alone, higher when combined with insulin or a sulfonylurea"
+    ]
+  },
+  {
+    "name": "Alimta",
+    "genericName": "Pemetrexed",
+    "medlineID": "a607043",
+    "drugClass": "Anticancer antifolate",
+    "commonUse": ["Cancer"],
+    "sideEffects": [
+      {
+        "effect": "Vomiting",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Dizziness",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Difficulty swallowing",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Hoarseness",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Xerostomia",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Pain or burning in the throat",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Swelling or inflammation of the mouth",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Obtain oncology clearance and recent CBC before any invasive procedure. avoid elective care at the nadir",
+      "Avoid NSAIDs. reduced pemetrexed clearance and increased toxicity; use acetaminophen",
+      "Chemotherapy-induced mucositis. bland rinses, meticulous atraumatic hygiene, treat candidiasis promptly",
+      "Thrombocytopenia and neutropenia increase bleeding and infection risk after extraction"
+    ]
+  },
+  {
+    "name": "Avastin",
+    "genericName": "Bevacizumab",
+    "medlineID": "a607001",
+    "drugClass": "Anticancer angiogenesis inhibitor",
+    "commonUse": ["Cancer", "Biologic"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Changes in taste",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Bloody nose",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Balance problems",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Note that bevacizumab is an angiogenesis inhibitor and can impair wound healing. avoid elective invasive procedures during therapy"
+    ]
+  },
+  {
+    "name": "Sovaldi",
+    "genericName": "Sofosbuvir",
+    "medlineID": "a614014",
+    "drugClass": "Antiviral",
+    "commonUse": ["Hepatitis C"],
+    "sideEffects": [],
+    "precautions": [
+      "Standard precautions and sharps discipline. hepatitis C is bloodborne",
+      "Assess current liver function. it affects acetaminophen dosing, local anesthetic metabolism, and healing",
+      "If on concurrent ribavirin, anemia and mucosal pallor may be present"
+    ]
+  },
+  {
+    "name": "Gilenya",
+    "genericName": "Fingolimod",
+    "medlineID": "a611006",
+    "drugClass": "Immunomodulator MS",
+    "commonUse": ["MS"],
+    "sideEffects": [
+      {
+        "effect": "Pain or tenderness around the eyes and cheekbones",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Immunosuppression with prolonged effect, up to 2 months after stopping. treat oral infection and HSV reactivation promptly",
+      "First-dose bradycardia requires 6 hours of cardiac monitoring. do not schedule dental treatment that day",
+      "Bradycardia. use caution with sedation and monitor pulse"
+    ]
+  },
+  {
+    "name": "Epogen",
+    "genericName": "Epoetin alfa",
+    "medlineID": "a692034",
+    "drugClass": "Erythropoiesis-stimulating agent",
+    "commonUse": ["Anemia"],
+    "sideEffects": [
+      {
+        "effect": "Vomiting",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Mouth sores",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Cough",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Increased thrombosis risk. avoid unnecessarily prolonged immobilization",
+      "Jaw or chest pain may be cardiac ischemia. evaluate before assuming odontogenic origin"
+    ]
+  },
+  {
+    "name": "Seroquel",
+    "genericName": "Quetiapine",
+    "medlineID": "a698019",
+    "drugClass": "Atypical antipsychotic",
+    "commonUse": [
+      "Schizophrenia",
+      "Bipolar disorder",
+      "Depression",
+      "Insomnia"
+    ],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Difficulty speaking",
+        "prevalence": "RARE"
+      },
+      {
+        "effect": "Vomiting",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Dizziness",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Xerostomia. fluoride, saliva substitutes, shortened recall",
+      "QT prolongation. avoid azithromycin, clarithromycin, and erythromycin",
+      "Additive sedation with dental sedatives and opioids"
+    ]
+  },
+  {
+    "name": "Amaryl",
+    "genericName": "Glimepiride",
+    "medlineID": "a696016",
+    "drugClass": "Antidiabetic",
+    "commonUse": ["Diabetes"],
+    "sideEffects": [
+      {
+        "effect": "Dizziness",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Sulfonylureas carry the highest hypoglycemia risk of the oral agents. confirm the patient has eaten and keep glucose chairside",
+      "Miconazole and fluconazole potentiate hypoglycemia. avoid or monitor closely if treating oral candidiasis",
+      "Hypoglycemia can present as perioral numbness and confusion, which mimics anesthetic effect",
+      "Diabetes and periodontitis are bidirectional. aggressive periodontal therapy and short recall"
+    ]
+  },
+  {
+    "name": "Percocet",
+    "genericName": "Acetaminophen/Oxycodone",
+    "medlineID": "a625053",
+    "drugClass": "Opiod analgesic",
+    "commonUse": ["Pain"],
+    "sideEffects": [
+      {
+        "effect": "Vomiting",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Contains acetaminophen. count it toward the daily maximum and do not add further acetaminophen products",
+      "Do not combine with benzodiazepine sedation. risk of fatal respiratory depression",
+      "Additive with nitrous oxide and other sedatives. reduce doses and monitor",
+      "NSAID plus acetaminophen outperforms opioids for most acute dental pain. reserve for short courses at the lowest effective dose",
+      "Xerostomia with repeated use. fluoride and saliva substitutes"
+    ]
+  },
+  {
+    "name": "Neoral/SandIMMUNE",
+    "genericName": "Cyclosporine",
+    "medlineID": "a601207",
+    "drugClass": "Immunosuppressant",
+    "commonUse": ["Transplant", "Autoimmune disease"],
+    "sideEffects": [
+      {
+        "effect": "Gingival hyperplasia",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Flushing or redness of the skin",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Pain or pressure in the face",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Erythromycin, clarithromycin, and azole antifungals including fluconazole markedly raise cyclosporine levels. nephrotoxicity risk; choose alternatives",
+      "Avoid NSAIDs. additive nephrotoxicity; use acetaminophen",
+      "Immunosuppression. treat oral infection promptly and coordinate prophylaxis with the transplant team",
+      "Screen for oral candidiasis, HSV, and mucosal lesions at each visit"
+    ]
+  },
+  {
+    "name": "Lantus",
+    "genericName": "Insulin glargine",
+    "medlineID": "a600027",
+    "drugClass": "Long-acting insulin",
+    "commonUse": ["Diabetes", "Insulin"],
+    "sideEffects": [
+      {
+        "effect": "Cough",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Sore throat",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Pain or tenderness around the eyes and cheekbones",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Tender, swollen glands in the neck",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Voice changes",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Confirm the patient has eaten and dosed as usual. schedule morning appointments",
+      "Keep a fast-acting glucose source chairside. hypoglycemic perioral numbness can be mistaken for anesthesia",
+      "Procedural stress, pain, and infection destabilize glucose control",
+      "Diabetes and periodontitis are bidirectional. aggressive periodontal therapy and short recall"
+    ]
+  },
+  {
+    "name": "Cialis",
+    "genericName": "Tadalafil",
+    "medlineID": "a604008",
+    "drugClass": "PDE5 inhibitor",
+    "commonUse": ["Erectile dysfunction", "Pulmonary hypertension"],
+    "sideEffects": [
+      {
+        "effect": "Cough",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Flushing or redness of the skin",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Sore throat",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Xerostomia",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Hoarseness",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Neck pain",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Tender, swollen glands in the neck",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Do not administer nitroglycerin within 48 hours of a tadalafil dose. risk of catastrophic hypotension; extend the window in hepatic or renal impairment",
+      "Erythromycin, clarithromycin, and azole antifungals raise tadalafil levels",
+      "Jaw pain in these patients may be cardiac ischemia. evaluate before assuming odontogenic origin",
+      "Monitor for hypotension when repositioning the chair"
+    ]
+  },
+  {
+    "name": "Elavil",
+    "genericName": "Amitriptyline",
+    "medlineID": "a682388",
+    "drugClass": "Tricyclic antidepressant",
+    "commonUse": ["Depression", "Nerve pain"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Vomiting",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "TCAs potentiate vasopressors. limit epinephrine, aspirate carefully, and avoid levonordefrin and epinephrine-impregnated retraction cord",
+      "Marked xerostomia. fluoride, saliva substitutes, shortened recall",
+      "Orthostatic hypotension. raise the chair slowly",
+      "Additive sedation with dental sedatives and opioids",
+      "Avoid adding anticholinergics such as sedating antihistamines"
+    ]
+  },
+  {
+    "name": "Lopid",
+    "genericName": "Gemfibrozil",
+    "medlineID": "a686002",
+    "drugClass": "Antihyperlipidemic",
+    "commonUse": ["Cholesterol"],
+    "sideEffects": [
+      {
+        "effect": "Acidic stomach",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Change in taste",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Vomiting",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Dizziness",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Rare thrombocytopenia. check CBC if there is unexplained bleeding around invasive procedures"
+    ]
+  },
+  {
+    "name": "Orapred",
+    "genericName": "Prednisolone",
+    "medlineID": "a615042",
+    "drugClass": "Corticosteroid",
+    "commonUse": ["Inflammation", "Immunosuppression", "Steroid"],
+    "sideEffects": [
+      {
+        "effect": "Slow healing",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Long-term therapy causes adrenal suppression. consider stress dosing for major oral surgery after consulting the prescriber",
+      "Never advise abrupt discontinuation. adrenal crisis risk",
+      "Treat oral candidiasis actively. nystatin, clotrimazole troche, or fluconazole",
+      "Impaired healing and masked infection signs after extraction. extended follow-up and low threshold for antibiotics",
+      "Avoid adding NSAIDs. additive GI bleeding risk"
+    ]
+  },
+  {
+    "name": "Motrin",
+    "genericName": "Ibuprofen",
+    "medlineID": "a682159",
+    "drugClass": "NSAID",
+    "commonUse": ["Pain"],
+    "sideEffects": [
+      {
+        "effect": "Dizziness",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Ceiling analgesic dose for dental pain is roughly 400-600 mg every 6 hours. combining with acetaminophen outperforms either alone or opioids",
+      "Avoid in peptic ulcer disease, significant renal impairment, heart failure, and the third trimester of pregnancy",
+      "Increases bleeding in patients on anticoagulants, antiplatelets, or SSRIs. use local hemostatic measures",
+      "Do not stack with another NSAID the patient already takes",
+      "Can blunt the cardioprotective antiplatelet effect of low-dose aspirin. take ibuprofen at least 8 hours before or 30 minutes after the aspirin dose"
+    ]
+  },
+  {
+    "name": "Aceon",
+    "genericName": "Perindopril",
+    "medlineID": "a602017",
+    "drugClass": "ACE inhibitor",
+    "commonUse": ["Hypertension"],
+    "sideEffects": [
+      {
+        "effect": "Pain or tenderness around the eyes and cheekbones",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Muscle stiffness",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Angioedema",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Angioedema can present as sudden lip, tongue, or airway swelling. airway emergency; do not mistake it for anesthetic allergy",
+      "Avoid NSAIDs for dental pain. use acetaminophen",
+      "Orthostatic hypotension. slow chair repositioning",
+      "Oral ulceration may signal rare neutropenia. check CBC if persistent"
+    ]
+  },
+  {
+    "name": "Desyrel",
+    "genericName": "Trazodone",
+    "medlineID": "a681038",
+    "drugClass": "SARI antidepressant",
+    "commonUse": ["Depression", "Insomnia"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Unpleasant taste in mouth",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "Additive sedation with dental sedatives and opioids",
+      "Orthostatic hypotension, especially in elderly patients. raise the chair slowly",
+      "Xerostomia. fluoride and saliva substitutes",
+      "Serotonergic effect increases bleeding with NSAIDs. prefer acetaminophen"
+    ]
+  },
+  {
+    "name": "Actos",
+    "genericName": "Pioglitazone",
+    "medlineID": "a699016",
+    "drugClass": "Antidiabetic",
+    "commonUse": ["Diabetes"],
+    "sideEffects": [
+      {
+        "effect": "Sore throat",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Cough",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Xerostomia",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Flushing or redness of the skin",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Frequent urination",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Tooth problems",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Low hypoglycemia risk alone, higher when combined with insulin or a sulfonylurea",
+      "Poor glycemic control impairs healing and worsens periodontal status",
+      "Fluid retention and heart failure risk. assess supine tolerance before long procedures"
+    ]
+  },
+  {
+    "name": "Proscar",
+    "genericName": "Finasteride",
+    "medlineID": "a698016",
+    "drugClass": "5-alpha reductase inhibitor",
+    "commonUse": ["BPH", "Hair loss"],
+    "sideEffects": [],
+    "precautions": [
+      "Pregnant staff should not handle crushed or broken tablets. relevant to medication handling in the office"
+    ]
+  },
+  {
+    "name": "Actonel",
+    "genericName": "Risedronate",
+    "medlineID": "a601247",
+    "drugClass": "Bisphosphonate",
+    "commonUse": ["Osteoporosis", "Paget's disease"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Dizziness",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Sore throat",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Frequent urination",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "tender, swollen glands in the neck",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Cough",
+        "prevalence": "COMMON"
+      }
+    ],
+    "precautions": [
+      "MRONJ risk is low with oral bisphosphonates but rises after roughly 4 years of use and with concurrent corticosteroids",
+      "Complete dental examination and any needed extractions before therapy starts",
+      "Routine restorative and periodontal care is not contraindicated. discuss elective invasive surgery with the prescriber",
+      "Meticulous oral hygiene; instruct the patient to report jaw pain, numbness, or exposed bone",
+      "Patient must take the tablet upright with plain water and stay upright for 30 minutes"
+    ]
+  },
+  {
+    "name": "Ventolin/ProAir",
+    "genericName": "Albuterol",
+    "medlineID": "a607004",
+    "drugClass": "Beta-2 agonist bronchodilator",
+    "commonUse": ["Asthma", "COPD"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Redness of the skin",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Sore throat",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Confirm the rescue inhaler is present at every appointment and accessible during treatment",
+      "Sulfite preservative in epinephrine-containing local anesthetic can trigger bronchospasm in sulfite-sensitive asthmatics. consider plain anesthetic",
+      "Avoid aspirin and NSAIDs in aspirin-exacerbated respiratory disease",
+      "Limit epinephrine. additive tachycardia and tremor",
+      "Xerostomia. instruct the patient to rinse after inhaler use; fluoride and saliva substitutes"
+    ]
+  },
+  {
+    "name": "Ultram",
+    "genericName": "Tramadol",
+    "medlineID": "a695011",
+    "drugClass": "Opioid analgesic",
+    "commonUse": ["Pain"],
+    "sideEffects": [
+      {
+        "effect": "Xerostomia",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Redness of the skin",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Sore throat",
+        "prevalence": "COMMON"
+      },
+      {
+        "effect": "Mucus producing cough",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Pain or tenderness around the eyes and cheekbones",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Neck pain",
+        "prevalence": "UNCOMMON"
+      },
+      {
+        "effect": "Hoarseness",
+        "prevalence": "UNCOMMON"
+      }
+    ],
+    "precautions": [
+      "Serotonin syndrome risk with SSRIs, SNRIs, and triptans. review the medication list before prescribing for dental pain",
+      "Lowers the seizure threshold. avoid in seizure disorder and with other serotonergic drugs",
+      "Additive respiratory depression with benzodiazepines and other sedatives",
+      "Less effective than NSAID plus acetaminophen for acute dental pain. not a first-line choice",
+      "Contraindicated under age 12 and after tonsillectomy or adenoidectomy under age 18"
+    ]
+  },
+  {
+    "name": "Vitamin E",
+    "genericName": "Alpha-Tocopherol",
+    "medlineID": "a621029",
+    "drugClass": "Vitamin",
+    "commonUse": ["Vitamin"],
+    "sideEffects": [
+      {
+        "effect": "Bleeding",
+        "prevalence": "Common"
+      }
+    ],
+    "precautions": ["Be aware of bleeding risk when probing"]
+  }
+]

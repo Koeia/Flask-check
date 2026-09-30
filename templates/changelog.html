@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block title %}Changelog · RDH Friend{% endblock %}
+{% block body %}
+<main class="page-simple">
+  <h2>Ver. {{ version }}</h2>
+  <ul>
+    <li>Ported to Flask (server-rendered, shareable result URLs)</li>
+    <li>Added GLP-1 medications</li>
+    <li>Transfered Database to JSON for sanity</li>
+    <li>Added MedlinePlus as reference link</li>
+    <li>Clear filter option</li>
+    <li>Added more drugs</li>
+  </ul>
+  <p><a href="{{ url_for('index') }}">← Back to lookup</a></p>
+</main>
+{% endblock %}

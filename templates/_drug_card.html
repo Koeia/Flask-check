@@ -1,0 +1,78 @@
+{% from "_icons.html" import icon %}
+{% macro drug_card(query, drug) %}
+{% if drug is none %}
+{% set phonetic = "https://www.drugs.com/search-wildcard-phonetic.php?search_type=phonetic&searchterm=" ~ (query | urlencode) %}
+<div class="drug-card drug-card--not-found">
+  <div class="drug-card__header drug-card__header--nf">
+    <div class="drug-card__title-group">
+      <h2 class="drug-card__name">{{ query }}</h2>
+      <span class="drug-card__not-found-label">Not in local database</span>
+    </div>
+  </div>
+  <div class="drug-card__not-found-body">
+    <p class="drug-card__not-found-msg">
+      <strong>{{ query }}</strong> wasn't found in the local database. Look it
+      up on Drugs.com for general drug information, then consult a clinical
+      dental pharmacology reference for dental-specific guidance.
+    </p>
+    <div class="not-found-links">
+      <a href="{{ phonetic }}" target="_blank" rel="noopener noreferrer" class="btn-external btn-external--primary">
+        {{ icon("search", 14) }} Search on Drugs.com
+      </a>
+    </div>
+    <p class="not-found-tip">
+      {{ icon("info", 12) }}
+      Have a drug you think should be in the database? Please submit a request to my
+      <a class="chip" href="mailto:chason@koeia.me">email</a>
+    </p>
+  </div>
+</div>
+{% else %}
+{% set badge = {"RARE": "badge-mild", "UNCOMMON": "badge-moderate", "COMMON": "badge-severe"} %}
+{# <details> gives collapse/expand with no JavaScript. #}
+<details class="drug-card" open>
+  <summary class="drug-card__header">
+    <div class="drug-card__title-group">
+      <h2 class="drug-card__name">{{ drug.name }}</h2>
+      {% if drug.generic_name %}<span class="drug-card__generic">({{ drug.generic_name }})</span>{% endif %}
+      <span class="drug-card__class">{{ drug.drug_class }}</span>
+    </div>
+    <span class="drug-card__toggle" aria-hidden="true">{{ icon("circle-chevron-up", 20) }}</span>
+  </summary>
+  <div class="drug-card__body">
+    <section class="drug-section">
+      <h3 class="drug-section__title">{{ icon("triangle-alert", 14) }} Oral Side Effects</h3>
+      <div class="side-effects-grid">
+        {% for se in drug.side_effects %}
+        <div class="side-effect-item">
+          <span class="side-effect-item__name">{{ se.effect }}</span>
+          <span class="badge {{ badge.get(se.prevalence, 'badge-mild') }}">{{ se.prevalence }}</span>
+        </div>
+        {% endfor %}
+      </div>
+    </section>
+
+    <section class="drug-section">
+      <h3 class="drug-section__title">{{ icon("clipboard-check", 14) }} Precautions &amp; General information</h3>
+      <ul class="considerations-list">
+        {% for p in drug.precautions %}
+        <li class="considerations-list__item considerations-list__item--precaution">
+          <span class="considerations-list__bullet considerations-list__bullet--warn" aria-hidden="true"></span>
+          {{ p }}
+        </li>
+        {% endfor %}
+      </ul>
+    </section>
+
+    {% if drug.notes %}
+    <div class="drug-notes">{{ icon("info", 14) }}<p>{{ drug.notes }}</p></div>
+    {% endif %}
+
+    <div class="drug-reference-link">
+      <a href="{{ drug.medline_url }}" target="_blank" rel="noopener noreferrer">{{ icon("external-link", 14) }} View on Medline</a>
+      <a href="https://www.drugs.com/search-wildcard-phonetic.php?search_type=phonetic&searchterm={{ drug.generic_name | urlencode }}" target="_blank" rel="noopener noreferrer">{{ icon("external-link", 14) }} View on Drugs.com</a>
+    </div>
+  </div>
+</details>
+{% endif %}
+{% endmacro %}
